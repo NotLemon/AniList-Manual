@@ -26,7 +26,6 @@
     * [Manhwa](media-specification/media-specification/written-media-information/manhwa.md)
     * [Doujinshi](media-specification/media-specification/written-media-information/doujinshi.md)
     * [Light Novels](media-specification/media-specification/written-media-information/light-novels.md)
-    * [Web Novels \(TO BE DELETED\)](media-specification/media-specification/written-media-information/light-novels-jp-and-web-novels-jp-ko-cn.md)
     * [One-Shots](media-specification/media-specification/written-media-information/one-shots.md)
     * [Web Platform List \(Not Exhaustive\)](media-specification/media-specification/written-media-information/web-platform-list-not-exhaustive.md)
 * [Sourcing](media-specification/sourcing/README.md)

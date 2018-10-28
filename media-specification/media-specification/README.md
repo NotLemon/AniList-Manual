@@ -18,7 +18,7 @@
   * [Manhwa](written-media-information/manhwa.md)
   * [Doujinshi](written-media-information/doujinshi.md)
   * [Light Novels](written-media-information/light-novels.md)
-  * [Web Novels](written-media-information/light-novels-jp-and-web-novels-jp-ko-cn.md)
+  * [Web Novels]()
   * [One-Shots](written-media-information/one-shots.md)
   * [Web Platform List \(Not Exhaustive\)](written-media-information/web-platform-list-not-exhaustive.md)
 
