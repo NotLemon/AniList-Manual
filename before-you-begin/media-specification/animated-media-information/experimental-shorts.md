@@ -20,5 +20,5 @@ _Exceptions may be granted for student graduation projects from Japanese animati
 
 Example 1:
 
-> \*\*\*\*[Rain Town](https://anilist.co/anime/10448/Rain-Town/) Is an experimental short by [Hiroyasu Ishida](https://anilist.co/staff/104852/Hiroyasu-Ishida). At the time of creation, he was an independent non-professional animator. As he has now worked on professionally produced works such as [Penguin Highway](https://anilist.co/anime/101249/Penguin-Highway/), this entry is acceptable.
+> [Rain Town](https://anilist.co/anime/10448/Rain-Town/) Is an experimental short by [Hiroyasu Ishida](https://anilist.co/staff/104852/Hiroyasu-Ishida). At the time of creation, he was an independent non-professional animator. As he has now worked on professionally produced works such as [Penguin Highway](https://anilist.co/anime/101249/Penguin-Highway/), this entry is acceptable.
 

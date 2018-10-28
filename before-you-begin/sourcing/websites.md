@@ -8,7 +8,7 @@ If you find an article or source in a language you can’t read, linking it for 
 
 ### General Sites
 
-* In most cases, _**official**_ sites are the best possible source and contain the most information. Providing these as often as possible is ideal. Especially since these sites should be linked in the External URL section of the form. 
+* In most cases, _**official**_ sites are the best possible source and contain the most information. Providing these as often as possible is ideal. Especially since these sites should be linked in the External URL section of the form.  
 * Sources in the native language are extremely helpful - even if you’re unable to read it. Searching the native title can bring up relevant news articles or, for a lot of digitally published works, sites where they are legally hosted \(Example: [PixivComic](https://comic.pixiv.net/), [Nico Nico Seiga](https://seiga.nicovideo.jp/), and [ComicWalker](https://comic-walker.com/)\).  
 * News sites are usually fine, but double-checking the sources they reference can be useful.  
 * [Media Arts Database](https://mediaarts-db.bunka.go.jp/) is an amazing resource managed by the Agency for Cultural Affairs’ for all manner of information, from animated series, to manga tankoubon, to print magazines dating over fifty years old. Always worth taking a look to see what’s there. \(Examples: [Dennou Coil](https://mediaarts-db.bunka.go.jp/an/anime_series/10034?display_view=pc&locale=en), [Weekly Manga TIMES](https://mediaarts-db.bunka.go.jp/mg/magazine_titles/9873?display_view=pc)\)
