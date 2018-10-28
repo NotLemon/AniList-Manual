@@ -29,5 +29,7 @@ Uploading slightly smaller or larger images is acceptable, but up-scaling can lo
 
 ![](../.gitbook/assets/cover-xl.png)
 
-![](https://github.com/AniList/Submission-Manual/tree/a75a145be94b07fe00ba94c797a3d65e0ee28116/.gitbook/assets/banner-entries%20%282%29.png)
+![](../.gitbook/assets/banner-entries.png)
+
+
 

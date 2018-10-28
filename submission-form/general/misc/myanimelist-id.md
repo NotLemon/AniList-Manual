@@ -4,10 +4,10 @@ The ID number for the entry as per [MyAnimeList](https://myanimelist.net/). This
 
 For example, the first _City Hunter_ anime has the URL [http://myanimelist.net/anime/1470](http://myanimelist.net/anime/1470), with the ID being _**1470**_. Please make sure you are linking the _**correct**_ anime or manga ID as this is used to accurately import lists.
 
-![The misc section for the &apos;Ao Buta&apos; anime](https://github.com/AniList/Submission-Manual/tree/a75a145be94b07fe00ba94c797a3d65e0ee28116/.gitbook/assets/misc%20%281%29.png)
+![The misc section for the &apos;Ao Buta&apos; anime](../../../.gitbook/assets/misc.png)
 
 {% hint style="danger" %}
-Warning: Please _**don’t**_ add a [MyAnimeList ](https://myanimelist.net/)ID if the entry is _**unapproved**_. You can normally spot unapproved entries as they will be on zero user lists and zero user favourites.
+Please _**don’t**_ add a [MyAnimeList ](https://myanimelist.net/)ID if the entry is _**unapproved**_. You can normally spot unapproved entries as they will be on zero user lists and zero user favourites.
 
 Each submission to [MyAnimeList ](https://myanimelist.net/)generates its own ID, so it’s possible that the ID for the entry submitted to [AniList ](https://anilist.co)will _**not**_ be the ID of the entry that [MyAnimeList ](https://myanimelist.net/)later approves.
 

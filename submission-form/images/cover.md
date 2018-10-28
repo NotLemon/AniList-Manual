@@ -40,7 +40,7 @@ Spine Example:
 
 {% tabs %}
 {% tab title="Uncropped Spine" %}
-![Volume with an uncropped spine](https://github.com/AniList/Submission-Manual/tree/a75a145be94b07fe00ba94c797a3d65e0ee28116/.gitbook/assets/bad_cover_jump%20%281%29.jpg)
+![Volume before cropping the spine](../../.gitbook/assets/bad_cover_jump.jpg)
 {% endtab %}
 
 {% tab title="Cropped Spine" %}
@@ -76,7 +76,7 @@ Spine Example:
 {% tab title="Volume 1" %}
 ![Volume 1 of &apos;Hibiki: Shousetsuka ni Naru Houhou&apos;](../../.gitbook/assets/good_cover_hibiki.jpg)
 
-![Volume 1 of &apos;Ginga no Shinanai Kodomotachi he&apos;](https://github.com/AniList/Submission-Manual/tree/a75a145be94b07fe00ba94c797a3d65e0ee28116/.gitbook/assets/good_cover_ginga%20%281%29.jpg)
+![Volume 1 of &apos;Ginga no Shinanai Kodomotachi he&apos;](../../.gitbook/assets/good_cover_ginga.jpg)
 {% endtab %}
 
 {% tab title="One-Shot" %}
@@ -86,7 +86,7 @@ Spine Example:
 {% endtab %}
 
 {% tab title="Announcement" %}
-![Announcement image for &apos;Koufuku Gokko&apos;](https://github.com/AniList/Submission-Manual/tree/a75a145be94b07fe00ba94c797a3d65e0ee28116/.gitbook/assets/good_cover_koufuku_announcement%20%281%29.jpg)
+![Announcement image for &apos;Koufuku Gokko&apos;](../../.gitbook/assets/good_cover_koufuku_announcement.jpg)
 
 ![Announcement image for &apos;Akuma no Mama&apos;](../../.gitbook/assets/good_cover_akuma_announcement.jpg)
 

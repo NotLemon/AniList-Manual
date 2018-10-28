@@ -1,5 +1,11 @@
 # Moderator List
 
+{% hint style="info" %}
+Feel free to contact a moderator for help and advice through the [website ](http://anilist.co/)or on [Discord](http://discord.me/anilist).
+
+However, please don't give them a title and expect them to do all the work for you.
+{% endhint %}
+
 ## Anime
 
 | Name | Role | Role |
@@ -20,10 +26,10 @@
 | [adustyspectacle](http://anilist.co/user/26062) | Anime \(BL\) |  |
 | [Edo](https://anilist.co/user/40572) | Anime |  |
 | [W8TERM3LON](https://anilist.co/user/57315) | Anime |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| [tacticianjack](https://anilist.co/user/97263) | Anime |  |
+| [safe](https://anilist.co/user/120925) | Anime |  |
+| [Sakura](https://anilist.co/user/73541) | Anime |  |
+| [Electrochemist](https://anilist.co/user/148769) | Anime |  |
 
 ## Manga
 
@@ -42,10 +48,11 @@
 | [Chi](https://anilist.co/user/15530) | Manga |  |
 | [alice](http://anilist.co/user/20955) | Manga |  |
 | [Silver](https://anilist.co/user/33516) | Manga |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| [nazo](https://anilist.co/user/109985) | Manga |  |
+| [TGG](https://anilist.co/user/63817) | Manga |  |
+| [IdleSheep](https://anilist.co/user/122659) | Manga |  |
+| [Urtag](https://anilist.co/user/36596) | Manga |  |
+| [Flidaix](https://anilist.co/user/139213) | Manga |  |
 
 ## Other Roles
 

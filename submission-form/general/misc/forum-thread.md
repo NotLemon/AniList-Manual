@@ -6,5 +6,5 @@ This will create automated threads in the Release Discussion section of the foru
 Users may also wish to create their own threads and it can be disabled for this purpose. If the option is enabled, a post will not be made if one has already been created by a user.
 {% endhint %}
 
-![The misc section for the &apos;Ao Buta&apos; anime](https://github.com/AniList/Submission-Manual/tree/a75a145be94b07fe00ba94c797a3d65e0ee28116/.gitbook/assets/misc%20%281%29.png)
+![The misc section for the &apos;Ao Buta&apos; anime](../../../.gitbook/assets/misc.png)
 

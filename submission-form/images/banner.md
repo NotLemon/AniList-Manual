@@ -10,17 +10,17 @@ Please refer to [Image Dimensions and Templates](../../before-you-begin/image-di
 
 {% tabs %}
 {% tab title="Good Banners" %}
-![](https://github.com/AniList/Submission-Manual/tree/a75a145be94b07fe00ba94c797a3d65e0ee28116/.gitbook/assets/banner-entries1.png)
+![](../../.gitbook/assets/banner-entries2.png)
 
-![](https://github.com/AniList/Submission-Manual/tree/a75a145be94b07fe00ba94c797a3d65e0ee28116/.gitbook/assets/banner-entries3.png)
+![](../../.gitbook/assets/banner-entries3.png)
 
-![](https://github.com/AniList/Submission-Manual/tree/a75a145be94b07fe00ba94c797a3d65e0ee28116/.gitbook/assets/banner-entries5.png)
+![](../../.gitbook/assets/banner-entries6.png)
 
-![](https://github.com/AniList/Submission-Manual/tree/a75a145be94b07fe00ba94c797a3d65e0ee28116/.gitbook/assets/banner-entries2.png)
+![](../../.gitbook/assets/banner-entries1.png)
 
-![](https://github.com/AniList/Submission-Manual/tree/a75a145be94b07fe00ba94c797a3d65e0ee28116/.gitbook/assets/banner-entries%20%281%29.png)
+![](../../.gitbook/assets/banner-entries5.png)
 
-![](https://github.com/AniList/Submission-Manual/tree/a75a145be94b07fe00ba94c797a3d65e0ee28116/.gitbook/assets/banner-entries6.png)
+![](../../.gitbook/assets/banner-entries4.png)
 {% endtab %}
 {% endtabs %}
 
