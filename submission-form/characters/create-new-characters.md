@@ -2,11 +2,11 @@
 
 ## Given Name
 
-Their given name\(s\) in correct [romanisation](../../media-specification/romanisation.md).
+Their given name\(s\) in correct [romanisation](../../before-you-begin/romanisation.md).
 
 ## Surname
 
-Their surname or alias in correct [romanisation](../../media-specification/romanisation.md).
+Their surname or alias in correct [romanisation](../../before-you-begin/romanisation.md).
 
 ## Native Name
 
@@ -19,7 +19,7 @@ Example:
 > A lot of current entries are incorrectly written as '絵理子木村' \(ErikoKimura\), which is the wrong way round, or '木村 絵理子' \(Kimura Eriko\), which contains a space. So, if you see it, please try to correct it.
 
 {% hint style="info" %}
-[Dictionary browser extensions](../../media-specification/sourcing/tools/rikaichan-and-rikaikun.md) can help with kanji readings if you know hiragana. if not, then feel free to ask for help in [Discord](http://discord.me/anilist).
+[Dictionary browser extensions](../../before-you-begin/sourcing/tools/rikaichan-and-rikaikun.md) can help with kanji readings if you know hiragana. if not, then feel free to ask for help in [Discord](http://discord.me/anilist).
 {% endhint %}
 
 An exception to the above is when a name is natively western.
@@ -59,7 +59,7 @@ Covers should be as close a 2:3 ratio as possible.
 
 If you have to crop or create new images then 230x345px is the recommended minimum. Larger images will be downscaled to 230px width.
 
-Please refer to [Image Dimensions and Templates](../../media-specification/image-dimensions-and-template.md), if required.
+Please refer to [Image Dimensions and Templates](../../before-you-begin/image-dimensions-and-template.md), if required.
 {% endhint %}
 
 {% tabs %}

@@ -18,10 +18,10 @@
 
 | Format | Description |
 | :--- | :--- |
-| [Manga](../../../media-specification/media-specification/written-media-information/manga.md) | Professionally published manga with more than one chapter. |
+| [Manga](../../../before-you-begin/media-specification/written-media-information/manga.md) | Professionally published manga with more than one chapter. |
 | [Light Novel]() | Light Novels. |
-| [One-Shot](../../../media-specification/media-specification/written-media-information/one-shots.md) | Manga with just one chapter. This includes pilots for manga that were published fully afterwards. |
-| [Doujin](../../../media-specification/media-specification/written-media-information/doujinshi.md) | Self-published manga. |
+| [One-Shot](../../../before-you-begin/media-specification/written-media-information/one-shots.md) | Manga with just one chapter. This includes pilots for manga that were published fully afterwards. |
+| [Doujin](../../../before-you-begin/media-specification/written-media-information/doujinshi.md) | Self-published manga. |
 
 {% hint style="info" %}
 The ‘[Country Of Origin](untitled-8.md)’ filter is used to specify works as of being of an origin other than Japanese \(for manhua, manhwa etc\).

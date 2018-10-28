@@ -6,10 +6,10 @@ Ensure all titles are used _**officially.**_ Do not use the native title transla
 
 ## Romaji
 
-The correct [romanisation ](../../media-specification/romanisation.md)of the title is preferred over all else and is _**required.**_
+The correct [romanisation ](../../before-you-begin/romanisation.md)of the title is preferred over all else and is _**required.**_
 
 {% hint style="info" %}
-Please see the [title formatting ](../../media-specification/title-formatting.md)section for information on how format titles.
+Please see the [title formatting ](../../before-you-begin/title-formatting.md)section for information on how format titles.
 {% endhint %}
 
 ## English

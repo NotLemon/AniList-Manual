@@ -7,7 +7,7 @@ Only official artwork or assets should be used, and the piece should be from the
 Examples of good covers can be seen at the bottom of this section.
 
 {% hint style="info" %}
-Please refer to the [Image Dimensions and Templates](../../media-specification/image-dimensions-and-template.md) section for additional information on recommended sizes, if required..
+Please refer to the [Image Dimensions and Templates](../../before-you-begin/image-dimensions-and-template.md) section for additional information on recommended sizes, if required..
 {% endhint %}
 
 {% hint style="warning" %}
