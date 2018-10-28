@@ -42,11 +42,11 @@ Example:
 Examples of how to deal with non-alphanumeric characters in titles can be seen in the table below. If uncertain, contact a [moderator](../moderator/moderator-list.md).
 {% endhint %}
 
-* Titles which feature subtitles separated full-width tildes \(～\) or other similar separators should be separated with a colon. 
-* Japanese quotes _\*\*_\(「」\) should be converted to English double-quotes \(" "\). 
-* Symbols like stars \(☆\) and musical notes \(♪\) should remain. 
-* Titles using full-width tildes to elongate words should be [romanised ](romanisation.md)without. \(み〜つけた &gt; Mitsuketa\). 
-* Hashtags in titles should remain without spaces when [romanised](romanisation.md), however a version with spaces should ideally be placed in the synonyms. 
+* Titles which feature subtitles separated full-width tildes \(～\) or other similar separators should be separated with a colon.  
+* Japanese quotes _\*\*_\(「」\) should be converted to English double-quotes \(" "\).  
+* Symbols like stars \(☆\) and musical notes \(♪\) should remain.  
+* Titles using full-width tildes to elongate words should be [romanised ](romanisation.md)without. \(み〜つけた &gt; Mitsuketa\).  
+* Hashtags in titles should remain without spaces when [romanised](romanisation.md), however a version with spaces should ideally be placed in the synonyms.  
 * Special things such as kaomoji \(顔文字\) should not be [romanised](romanisation.md).
 
 ## Examples

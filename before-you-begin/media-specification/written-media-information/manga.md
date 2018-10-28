@@ -2,7 +2,7 @@
 
 ## Database Criteria
 
-There is a limitation on manga that can be accepted to the site, notably they should works that were first published through a reputable Japanese publisher \([doujinshi](doujinshi.md) is an exception, please refer to that section\).
+There is a limitation on manga that can be accepted to the site, notably they should works that were first published through a reputable Japanese publisher. [Doujinshi](doujinshi.md) is an exception, please refer to that section.
 
 Example magazines include things such as:
 

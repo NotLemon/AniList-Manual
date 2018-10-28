@@ -5,7 +5,7 @@
 Experimental Shorts can be added to the website if it meets all the following criteria:
 
 * Its creator has worked on professionally produced anime. 
-* It meets the Japanese 'Country Of Origin'. 
+* It meets the Japanese '[Country Of Origin](../../../submission-form/general/typings/untitled-8.md)'. 
 * The doujinshi is not based on existing published material \(anime, manga, manhwa etc.\) - it must be an _original_ work.
 
 {% hint style="info" %}
