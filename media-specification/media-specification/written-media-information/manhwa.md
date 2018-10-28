@@ -1,6 +1,6 @@
 # Manhwa
 
-### Database Criteria
+## Database Criteria
 
 There is a limitation on manhwa that can be accepted to the site, notably they should be professionally published works through a reputable Korean publisher.
 

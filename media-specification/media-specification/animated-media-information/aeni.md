@@ -1,6 +1,6 @@
 # Aeni
 
-### Database Criteria
+## Database Criteria
 
 There are limitations to aeni that can be accepted to the site, notably there should be significant creative control of the titles from Korean studios.
 
@@ -8,9 +8,9 @@ There are limitations to aeni that can be accepted to the site, notably there sh
 Even if a title is animated by these studios, it may not be added to the site due to significant creative decisions being made by western companies.
 {% endhint %}
 
-### Examples
+## Examples
 
-Example 1: 
+Example 1:
 
 > [Closers: Side Blacklambs](https://anilist.co/anime/99527/Closers-Side-Blacklambs/) was produced by the Korean studio [Studio Animal](https://anilist.co/studio/6169/Studio-Animal) and the primary staff \(director, writers, etc\) are also Korean.
 

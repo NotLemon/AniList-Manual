@@ -1,10 +1,10 @@
 # Music Videos
 
-### Database Criteria
+## Database Criteria
 
 Music video's are permitted as long as there is _**significant**_ creative control from a Japanese creator. If it is unclear, ask a moderator for advice.
 
-### Examples
+## Examples
 
 Example 1:
 

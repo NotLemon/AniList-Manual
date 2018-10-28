@@ -1,6 +1,6 @@
 # Light Novels
 
-### Database Criteria
+## Database Criteria
 
 Light novels can be added to the website if they meet all the following criteria:
 
@@ -29,9 +29,9 @@ Tokuten \(bonus booklets and such\) are not added to the database.
 {% endhint %}
 
 {% hint style="warning" %}
-If a self-published web novel from a site such as [Syosetu ](http://syosetu.com)is later  professionally published as a [light novel](light-novels.md), the light novel entry would be eligible for submission under the date that the light novel serialisation began.  
-  
-The original web novel publication should _**not**_ be added.   
+If a self-published web novel from a site such as [Syosetu ](http://syosetu.com)is later professionally published as a [light novel](light-novels.md), the light novel entry would be eligible for submission under the date that the light novel serialisation began.
+
+The original web novel publication should _**not**_ be added.  
 This means works from Japanese self-publishing websites such as [Syosetu ](http://syosetu.com)are completely denied.
 {% endhint %}
 
@@ -39,7 +39,7 @@ This means works from Japanese self-publishing websites such as [Syosetu ](http:
 Chinese and Korean web novels are _**not**_ accepted on this website.
 {% endhint %}
 
-### Examples
+## Examples
 
 Example 1:
 

@@ -1,6 +1,6 @@
 # Manga
 
-### Database Criteria
+## Database Criteria
 
 There is a limitation on manga that can be accepted to the site, notably they should works that were first published through a reputable Japanese publisher \([doujinshi](doujinshi.md) is an exception, please refer to that section\).
 
@@ -30,15 +30,15 @@ Works published on sites like [Twitter ](http://twitter.com)or [Pixiv](http://pi
 
 Any accepted works from [Comico ](https://www.comico.jp)or similar webtoon portals should be from the official section only, and not the self-publishing challenge section.
 
-### Doujinshi into Manga
+## Doujinshi into Manga
 
-If series originally self-published online through platforms like [Twitter ](http://twitter.com)or [Pixiv](http://pixiv.net)  \(considered [doujinshi](doujinshi.md)\) are later picked up by a professional publisher and released without significant change, any existing entry in AniList under the doujinshi format would be [updated](../../../submission-form-1/general/misc/licensed.md) to manga \(retaining the original self-published start date\).
+If series originally self-published online through platforms like [Twitter ](http://twitter.com)or [Pixiv](http://pixiv.net) \(considered [doujinshi](doujinshi.md)\) are later picked up by a professional publisher and released without significant change, any existing entry in AniList under the doujinshi format would be [updated](../../../submission-form/general/misc/licensed.md) to manga \(retaining the original self-published start date\).
 
 {% hint style="warning" %}
 If the serialisation is an _**entirely**_ new work, and not a re-publication of the original chapters, a new entry should be made using the start date as the date of serialisation. The original work could still be eligible to enter the database as doujinshi.
 {% endhint %}
 
-#### Examples
+### Examples
 
 Example 1:
 
@@ -50,7 +50,7 @@ Example 2:
 
 > [Sanpakugan-chan wa Tsutaetai.](https://anilist.co/manga/104776/Sanpakuganchan-wa-Tsutaetai/) was first released on Twitter \([here](https://twitter.com/syunsuke1009/status/1004317076788408320)\) before the publisher [GANGANpixiv](https://gangan.pr-pixiv.net/) began serialisation.  
 >   
-> Like the first example, this also could have been eligible to be entered as doujinshi at first, if meeting the other requirements. 
+> Like the first example, this also could have been eligible to be entered as doujinshi at first, if meeting the other requirements.
 >
 > Also like the first example, the serialisation is a re-publication of the first chapters with minor adjustment.
 

@@ -1,0 +1,30 @@
+# General
+
+## Contents:
+
+* [Submission Sources](source.md)
+* [Titles](titles.md)
+* [Release Data](release-data/)
+  * [Release Status](release-data/release-status.md)
+  * [Season](release-data/season.md)
+  * [Start and End Date](release-data/start-date.md)
+* [Typings](typings/)
+  * [Format](typings/untitled-6.md)
+  * [Source](typings/untitled-7.md)
+  * [Country Of Origin](typings/untitled-8.md)
+* [Lengths](lengths/)
+  * [Anime](lengths/anime.md)
+  * [Manga](lengths/manga.md)
+* [Genres](genres.md)
+* [Synonyms](synonyms.md)
+* [Description](description.md)
+* [Misc](misc/)
+  * [MyAnimeList ID](misc/myanimelist-id.md)
+  * [Youtube Preview ID](misc/youtube-preview-id.md)
+  * [Twitter Hashtag](misc/twitter-hashtag.md)
+  * [Licensed](misc/licensed.md)
+  * [Adult](misc/adult.md)
+  * [Locked](misc/locked.md)
+  * [Forum Thread](misc/forum-thread.md)
+* [Mod Notes](mod-notes.md)
+

@@ -1,6 +1,6 @@
 # Written Media Information
 
-### Contents:
+## Contents:
 
 * [Manga](manga.md)
 * [Manhua](manhua.md)

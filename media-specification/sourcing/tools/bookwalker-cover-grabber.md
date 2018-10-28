@@ -10,9 +10,7 @@ javascript:(function(a){var b=document.createElement("textarea"),c=document.getS
 
 * Find the volume you want to use the cover of and press the bookmark
 
-  \(Example: [紺田照の合法レシピ（１）](https://bookwalker.jp/deae06677d-973d-42d1-bfb3-f24d841dbd13/)\)  
+  \(Example: [紺田照の合法レシピ（１）](https://bookwalker.jp/deae06677d-973d-42d1-bfb3-f24d841dbd13/)\)
 
-* A box will pop up containing a direct link to the larger image which you can paste into a new tab to access and save.  \(Example: [https://c.bookwalker.jp/coverImage\_1936781.jpg](https://c.bookwalker.jp/coverImage_1936781.jpg)\).
-
-
+* A box will pop up containing a direct link to the larger image which you can paste into a new tab to access and save. \(Example: [https://c.bookwalker.jp/coverImage\_1936781.jpg](https://c.bookwalker.jp/coverImage_1936781.jpg)\).
 

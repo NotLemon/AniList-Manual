@@ -1,10 +1,10 @@
 # Advertisements and Commercials
 
-### Database Criteria
+## Database Criteria
 
 Advertisements are only permitted when they are directed by a person who has directed or produced a full-length series or movie.
 
-### Examples
+## Examples
 
 Example 1:
 

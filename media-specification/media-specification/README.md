@@ -1,6 +1,6 @@
 # Media Specification
 
-### Contents
+## Contents
 
 * [Animated Media Information](animated-media-information/)
   * [Anime](animated-media-information/anime.md) 

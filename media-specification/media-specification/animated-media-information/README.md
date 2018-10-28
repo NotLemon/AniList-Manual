@@ -1,6 +1,6 @@
 # Animated Media Information
 
-### Contents
+## Contents
 
 * [Anime](anime.md) 
 * [Aeni](aeni.md)

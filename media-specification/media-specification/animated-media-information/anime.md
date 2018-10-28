@@ -1,6 +1,6 @@
 # Anime
 
-### Database Criteria
+## Database Criteria
 
 There are limitations to the anime that can be accepted to the site, notably there should be significant creative control of the titles from Japanese studios and be professionally produced.
 
@@ -8,9 +8,9 @@ There are limitations to the anime that can be accepted to the site, notably the
 Even if a title is animated by these studios, it may not be added to the site due to significant creative decisions being made by western companies.
 {% endhint %}
 
-### Examples
+## Examples
 
-Example 1: 
+Example 1:
 
 > [Bakemonogatari ](https://anilist.co/anime/5081/Bakemonogatari/)was produced by the Japanese studio [Shaft](https://anilist.co/studio/44/Shaft), and the primary staff \(director, writers, etc\) are also Japanese.
 
