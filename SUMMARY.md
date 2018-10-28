@@ -1,0 +1,96 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [WORK TO BE DONE](work-to-be-done.md)
+* [Change Log](changelog.md)
+
+## Before You Begin
+
+* [Checklist](introduction/before-you-begin.md)
+
+## Media Specification
+
+* [Media Specification](media-specification/media-specification/README.md)
+  * [Animated Media Information](media-specification/media-specification/animated-media-information/README.md)
+    * [Anime](media-specification/media-specification/animated-media-information/anime.md)
+    * [Aeni](media-specification/media-specification/animated-media-information/aeni.md)
+    * [Donghua](media-specification/media-specification/animated-media-information/donghua.md)
+    * [Episode 0’s and Prologues](media-specification/media-specification/animated-media-information/episode-0s-and-prologues.md)
+    * [OVAs, ONAs, and Specials](media-specification/media-specification/animated-media-information/ovas-and-onas.md)
+    * [Recaps](media-specification/media-specification/animated-media-information/recaps.md)
+    * [Experimental Shorts](media-specification/media-specification/animated-media-information/experimental-shorts.md)
+    * [Advertisements and Commercials](media-specification/media-specification/animated-media-information/advertisements-and-commercials.md)
+    * [Music Videos](media-specification/media-specification/animated-media-information/music-videos.md)
+  * [Written Media Information](media-specification/media-specification/written-media-information/README.md)
+    * [Manga](media-specification/media-specification/written-media-information/manga.md)
+    * [Manhua](media-specification/media-specification/written-media-information/manhua.md)
+    * [Manhwa](media-specification/media-specification/written-media-information/manhwa.md)
+    * [Doujinshi](media-specification/media-specification/written-media-information/doujinshi.md)
+    * [Light Novels](media-specification/media-specification/written-media-information/light-novels.md)
+    * [Web Novels \(TO BE DELETED\)](media-specification/media-specification/written-media-information/light-novels-jp-and-web-novels-jp-ko-cn.md)
+    * [One-Shots](media-specification/media-specification/written-media-information/one-shots.md)
+    * [Web Platform List \(Not Exhaustive\)](media-specification/media-specification/written-media-information/web-platform-list-not-exhaustive.md)
+* [Sourcing](media-specification/sourcing/README.md)
+  * [Websites](media-specification/sourcing/websites.md)
+  * [Tools](media-specification/sourcing/tools/README.md)
+    * [Japanese Dictionary Extensions](media-specification/sourcing/tools/rikaichan-and-rikaikun.md)
+    * [Bookwalker Cover Grabber](media-specification/sourcing/tools/bookwalker-cover-grabber.md)
+* [Romanisation](media-specification/romanisation.md)
+* [Title Formatting](media-specification/title-formatting.md)
+* [Image Dimensions and Templates](media-specification/image-dimensions-and-template.md)
+
+## Submission Form
+
+* [General](submission-form-1/general/README.md)
+  * [Submission Sources](submission-form-1/general/source.md)
+  * [Titles](submission-form-1/general/titles.md)
+  * [Release Data](submission-form-1/general/release-data/README.md)
+    * [Release Status](submission-form-1/general/release-data/release-status.md)
+    * [Season](submission-form-1/general/release-data/season.md)
+    * [Start and End Date](submission-form-1/general/release-data/start-date.md)
+  * [Typings](submission-form-1/general/typings/README.md)
+    * [Format](submission-form-1/general/typings/untitled-6.md)
+    * [Source](submission-form-1/general/typings/untitled-7.md)
+    * [Country Of Origin](submission-form-1/general/typings/untitled-8.md)
+  * [Lengths](submission-form-1/general/lengths/README.md)
+    * [Anime](submission-form-1/general/lengths/anime.md)
+    * [Manga](submission-form-1/general/lengths/manga.md)
+  * [Genres](submission-form-1/general/genres.md)
+  * [Synonyms](submission-form-1/general/synonyms.md)
+  * [Description](submission-form-1/general/description.md)
+  * [Misc](submission-form-1/general/misc/README.md)
+    * [MyAnimeList ID](submission-form-1/general/misc/myanimelist-id.md)
+    * [YouTube Preview ID](submission-form-1/general/misc/youtube-preview-id.md)
+    * [Twitter Hashtag](submission-form-1/general/misc/twitter-hashtag.md)
+    * [Licensed](submission-form-1/general/misc/licensed.md)
+    * [Adult](submission-form-1/general/misc/adult.md)
+    * [Locked](submission-form-1/general/misc/locked.md)
+    * [Forum Thread](submission-form-1/general/misc/forum-thread.md)
+  * [Mod Notes](submission-form-1/general/mod-notes.md)
+* [Images](submission-form-1/images/README.md)
+  * [Cover](submission-form-1/images/cover.md)
+  * [Banner](submission-form-1/images/banner.md)
+* [Airing](submission-form-1/airing.md)
+* [Characters](submission-form-1/characters/README.md)
+  * [Adding Characters](submission-form-1/characters/adding-characters.md)
+  * [Create New Characters](submission-form-1/characters/create-new-characters.md)
+  * [Create New Voice Actor](submission-form-1/characters/create-new-voice-actor.md)
+  * [Add/Edit Voice Actor Role](submission-form-1/characters/add-edit-voice-actor-role.md)
+* [Staff](submission-form-1/staff/README.md)
+  * [Adding Staff](submission-form-1/staff/adding-staff.md)
+  * [Create New Staff](submission-form-1/staff/create-new-staff.md)
+  * [Staff Role](submission-form-1/staff/staff-role.md)
+* [Studios](submission-form-1/studios.md)
+* [Relations](submission-form-1/relations.md)
+* [External Links](submission-form-1/external-links.md)
+* [Revision History](submission-form-1/revision-history.md)
+
+## Tags
+
+* [Tag Management](tags/tag-management.md)
+
+## Moderator
+
+* [Mod Tools](moderator/mod-tools.md)
+* [Moderator List](moderator/moderator-list.md)
+
