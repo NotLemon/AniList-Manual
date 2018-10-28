@@ -30,7 +30,7 @@ Example
 
 ### **Appendages**
 
-For supplemental works to a main series, such as [OVA's and Specials](media-specification/animated-media-information/ovas-and-onas.md), the main series title should be used and the format appended to the end.
+For supplemental works to a main series, such as [OVA's and Specials](animated-media-information/ovas-and-onas.md), the main series title should be used and the format appended to the end.
 
 Example:
 

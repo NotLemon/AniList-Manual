@@ -42,7 +42,7 @@ Example:
 > To link the entries, you must be in the original novel and set [Kono Subarashii Sekai ni Bakuen wo!](https://anilist.co/manga/100147/Kono-Subarashii-Sekai-ni-Bakuen-wo/) as a **spin-off**. The **parent** relation will then be set in the opposite direction.
 
 {% hint style="warning" %}
-[One-shots](../before-you-begin/media-specification/written-media-information/one-shots.md) that are adapted into a proper serialisation are linked through the **alternative** relation. The [source ](general/typings/untitled-7.md)would remain 'original'
+[One-shots](../before-you-begin/written-media-information/one-shots.md) that are adapted into a proper serialisation are linked through the **alternative** relation. The [source ](general/typings/untitled-7.md)would remain 'original'
 {% endhint %}
 
 ## Branching
