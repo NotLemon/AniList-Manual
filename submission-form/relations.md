@@ -41,6 +41,10 @@ Example:
 >
 > To link the entries, you must be in the original novel and set [Kono Subarashii Sekai ni Bakuen wo!](https://anilist.co/manga/100147/Kono-Subarashii-Sekai-ni-Bakuen-wo/) as a **spin-off**. The **parent** relation will then be set in the opposite direction.
 
+{% hint style="warning" %}
+[One-shots](../before-you-begin/media-specification/written-media-information/one-shots.md) that are adapted into a proper serialisation are linked through the **alternative** relation. The [source ](general/typings/untitled-7.md)would remain 'original'
+{% endhint %}
+
 ## Branching
 
 Relations should always branch off the _**earliest**_ publication of a series if the series has multiple formats, unless it is clear that a spin-off or adaptation is clearly branched off from a later format.
