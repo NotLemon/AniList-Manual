@@ -15,3 +15,7 @@ Example:
 [R of Black Lagoon](https://anilist.co/manga/87131/R-of-Blacklagoon/) is a doujinshi of [Black Lagoon](https://anilist.co/manga/30735/Black-Lagoon/) published by the original author, [Hiroe Rei](https://anilist.co/staff/97578/Rei-Hiroe).
 {% endhint %}
 
+{% hint style="info" %}
+Some doujinshi that enter serialisation may be converted to the manga format provided the new serialisation is not an entirely new work. Please refer to [manga ](manga.md#doujinshi-into-manga)for more information.
+{% endhint %}
+
