@@ -55,6 +55,8 @@ Example:
 >   
 > Two spin-offs, [Mushoku Tensei - Roxy datte Honki desu](https://anilist.co/manga/104724/Mushoku-Tensei--Roxy-datte-Honki-desu/) and [Mushoku Tensei: 4-koma ni Natte mo Honki Dasu](https://anilist.co/manga/104856/Mushoku-Tensei-4koma-ni-Natte-mo-Honki-Dasu/), were then serialised in December 2017 and October 2018 respectively. Both spin-offs only branch off the light novel, and _**not**_ the manga, so are only be linked to the light novel.
 
+## Relation Table
+
 | Relation | Opposite | Usage |
 | :--- | :--- | :--- |
 | Source | _Adaptation_ | The original source of an adaptation. |

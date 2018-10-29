@@ -52,7 +52,6 @@ Illegal streaming and scanlation websites are _**not**_ allowed.
 * Douban
 * Kuaikanmanhua
 * Manmanapp
-* Qidian
 * QQ
 * Weibo Manhua
 
