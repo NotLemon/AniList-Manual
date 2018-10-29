@@ -10,6 +10,7 @@ Example magazines include things such as:
 {% tab title="Print Magazines" %}
 [Weekly Shounen Jump](http://www.shonenjump.com/)  
 [Comic Earthstar ](https://comic-earthstar.jp/)  
+[Dengeki Daioh](http://daioh.dengeki.com/)  
 [Manga Time Kirara](http://www.dokidokivisual.com/)  
 [Kindai Mahjong](http://kinma.takeshobo.co.jp/)  
 [Betsuma](http://betsuma.shueisha.co.jp/)
@@ -20,7 +21,8 @@ Example magazines include things such as:
 [Ganma!](https://ganma.jp/)  
 [Sunday Webry](https://www.sunday-webry.com/)  
 [LEED Cafe](http://leedcafe.com/)  
-[Dengeki @vitamin](http://dc.dengeki.com/vitamin/)
+[Dengeki @vitamin](http://dc.dengeki.com/vitamin/)  
+[Ohta Web Comic](http://webcomic.ohtabooks.com/)
 {% endtab %}
 {% endtabs %}
 
