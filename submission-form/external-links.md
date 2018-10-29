@@ -5,7 +5,7 @@ Fill in any related links to official sites, official social media and _**legal*
 ![External links page for the &apos;Ao Buta&apos; anime](../.gitbook/assets/external_links_anime.png)
 
 {% hint style="warning" %}
-Links that are only for purchasing the work should _**not**_ be added \(such as [Amazon ](https://www.amazon.co.jp/)or [ebookjapan ](https://www.ebookjapan.jp/)listings\).
+Links that are only for purchasing the work should _**not**_ be added \(such as [Amazon](https://www.amazon.co.jp/) or [ebookjapan](https://www.ebookjapan.jp/) listings\).
 {% endhint %}
 
 Suitable examples would be:  
@@ -14,7 +14,7 @@ Three applicable digital readers for [Ginga no Shinanai Kodomotachi he](https://
 
 If the URL provided is not one of the titled links listed in the next section, it will be titled with a generic ‘_official site_’.
 
-Feel free to contact a [moderator ](../moderator/moderator-list.md)if you want to have another link title considered. Sites such as print or web magazines are ineligible.
+Feel free to contact a [moderator](../moderator/moderator-list.md) if you want to have another link title considered. Sites such as print or web magazines are ineligible.
 
 {% hint style="danger" %}
 Illegal streaming and scanlation websites are _**not**_ allowed.
