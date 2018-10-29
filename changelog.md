@@ -12,7 +12,7 @@ This is the initial release of the second version of the Data Management tool an
 
 ### New
 
-* Characters and Staff are no longer separate submission forms, everything is now done through either submitting or editing anime or manga.
+* Characters, staff and banners are no longer separate submission forms, everything is now done through either submitting or editing the two anime and manga forms.
 * Additional [sources ](submission-form/general/typings/untitled-7.md)have been added to the website and all media types can now make use of the field. The new sources are:
   * **Doujinshi**
   * **Anime**
