@@ -5,9 +5,9 @@
 Adding or modifying an entry on AniList is an easy task. The main focus is making sure that data is accurate and as complete as possible for that moment in time. All sections of the form are formatted in a similar fashion and have handy tool-tips to assist you.
 
 {% hint style="info" %}
-Please be aware that AniList does not handle all entries the same way that other sites may do so.   
+Please be aware that AniList does not handle all entries the same way that other sites do.   
   
-__Example:  
+__Examples:  
 [Episode 0's and Prologues](before-you-begin/animated-media-information/episode-0s-and-prologues.md) are only placed in a standalone entry if they aired in a different format from the series.  
   
 [Recap ](before-you-begin/animated-media-information/recaps.md)episodes are not always included.  
