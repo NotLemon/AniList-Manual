@@ -16,5 +16,5 @@ Example 1:
 
 Example 2:
 
-> [RWBY ](https://en.wikipedia.org/wiki/RWBY)has a Japanese dub and was broadcast on Japanese TV, however, as it was produced by an American company _\(Rooster Teeth_\) and its primary staff \(director, writers, etc.\) are also American, it would not meet our anime guidelines.
+> [RWBY ](https://en.wikipedia.org/wiki/RWBY)has a Japanese dub and was broadcast on Japanese TV. However, as it was produced by an American company _\(Rooster Teeth_\) and its primary staff \(director, writers, etc.\) are also American, it would not meet the anime criteria for this database.
 
