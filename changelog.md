@@ -27,6 +27,7 @@ This is the initial release of the second version of the Data Management tool an
 * A [tags ](tags/tag-management.md)guide has been included in the manual.
 * The [Mod Tools](moderator/mod-tools.md)[ ](moderator/mod-tools.md)have been included in the manual.
 * A list of [moderators ](moderator/moderator-list.md)has been included in the manual.
+* You can now upload images directly from your device.
 
 ### Fixed
 
