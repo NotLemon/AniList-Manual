@@ -43,7 +43,7 @@ This is the initial release of the second version of the Data Management tool an
   * **Example**: [Chihayafuru](https://anilist.co/manga/43245/Chihayafuru/)
 * Light novel to manga adaptations that previously incorrectly used the **Alternative** relation will now use **Adaptation** and **Source**, being treated the same way as anime adaptations.
   * **Example**: [Mushoku Tensei](https://anilist.co/manga/85564/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu/)
-* Web novels from any accepted [country of origin](submission-form/general/typings/untitled-8.md) are not eligible to be in the database and any existing entries that have been added over time have been or will be deleted. The only allowed novel type is [Light Novel](before-you-begin/written-media-information/light-novels.md).
+* Novels and Web Novels from any accepted [country of origin](submission-form/general/typings/untitled-8.md) are not eligible to be in the database and any existing entries that have been added over time have been or will be deleted. The only allowed novel type is [Light Novel](before-you-begin/written-media-information/light-novels.md).
   * _Effect should be minimal as barely any users track Chinese or Korean web novels on this site, as much better alternatives are available. Professionally published manhua and manhwa are still allowed._
 * The incorrect statement on the previous manual that extra chapters \(such as prologues, epilogues and .5's\) are not included in the total chapter count has been removed.
   * Effect should be minimal as they were still being included.
