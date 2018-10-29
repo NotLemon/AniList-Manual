@@ -57,17 +57,17 @@ Example:
 
 | Relation | Opposite | Usage |
 | :--- | :--- | :--- |
-| Source | Adaptation | The original source of an adaptation. |
-| Adaptation | Source | A work adapted into a new format. |
-| Prequel | Sequel | A story preceding the current work \(chronologically\). |
-| Sequel | Prequel | A story succeeding the current work \(chronologically\). |
-| Character | Character | A work only related by containing the same character\(s\). |
-| Alternative | Alternative | An alternative version. \(Not a straight adaptation\) |
-| Contains | Compilation | A singular work  \(eg. one-shot\) |
-| Compilation | Contains | A compilation of separate works \(eg. one-shot anthologies\) |
-| Side Story | Parent | Often a supplemental work. |
-| Spin Off | Parent | A work deviated from the main series. |
-| Summary | Parent | A summary of a parent work. |
-| Other | Parent | Please refrain from using this option as much as possible, and only when the work definitely does not relate in any other form or the relation is presently unknown. |
+| Source | _Adaptation_ | The original source of an adaptation. |
+| Adaptation | _Source_ | A work adapted into a new format. |
+| Prequel | _Sequel_ | A story preceding the current work \(chronologically\). |
+| Sequel | _Prequel_ | A story succeeding the current work \(chronologically\). |
+| Character | _Character_ | A work only related by containing the same character\(s\). |
+| Alternative | _Alternative_ | An alternative version. \(Not a straight adaptation\) |
+| Contains | _Compilation_ | A singular work  \(eg. one-shot\) |
+| Compilation | _Contains_ | A compilation of separate works \(eg. one-shot anthologies\) |
+| Side Story | _Parent_ | Often a supplemental work. |
+| Spin Off | _Parent_ | A work deviated from the main series. |
+| Summary | _Parent_ | A summary of a parent work. |
+| Other | _Parent_ | Please refrain from using this option as much as possible, and only when the work definitely does not relate in any other form or the relation is presently unknown. |
 | Parent |  | The tree for side stories, characters, summaries, spin off’s, etc. \(cannot be manually set\). |
 
