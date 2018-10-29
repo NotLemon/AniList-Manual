@@ -26,7 +26,7 @@ Example magazines include things such as:
 
 There are many sites that work with multiple publishers to release serialisations digitally, such as [PixivComic](https://comic.pixiv.net/), [ComicWalker](https://comic-walker.com/), and [Nico Nico Seiga](https://seiga.nicovideo.jp/).
 
-Works published on sites like [Twitter ](http://twitter.com)or [Pixiv](http://pixiv.net)’s non-comic section are usually not accepted _**unless**_ they are multi-chapter works uploaded by an author already in serialisation, in which they’ll be classed as [doujinshi](doujinshi.md).
+Works published on sites like [Twitter ](http://twitter.com)or [Pixiv](http://pixiv.net)’s non-comic section are usually not accepted _**unless**_ they are titled works uploaded by an author already in serialisation, in which they’ll be classed as [doujinshi](doujinshi.md).
 
 Any accepted works from [Comico ](https://www.comico.jp)or similar webtoon portals should be from the official section only, and not the self-publishing challenge section.
 
