@@ -4,6 +4,8 @@
 
 Adding or modifying an entry on AniList is an easy task. The main focus is making sure that data is accurate and as complete as possible for that moment in time. All sections of the form are formatted in a similar fashion and have handy tool-tips to assist you.
 
+When a user provides a submission it will undergo a review process where a moderator can approve or deny the additions and/or changes made - it is extremely helpful to provide as many [sources](before-you-begin/sourcing/) as possible to confirm the information you want to submit.
+
 {% hint style="info" %}
 Please be aware that AniList does not handle all entries the same way that other sites do.   
   
@@ -15,11 +17,7 @@ __Examples:
 AniList has additional [relations](submission-form/relations.md). Labelling adaptations between all formats \(anime, manga and light novel\) is also treated the same.
 {% endhint %}
 
-When a user provides a submission it will undergo a review process where a moderator can approve or deny the additions and/or changes made - it is extremely helpful to provide as many [sources](before-you-begin/sourcing/) as possible to confirm the information you want to submit.
-
-{% hint style="info" %}
 After making a submission, you will be able still be able to edit it, as well as view the status of your submissions, plus receive comments from any moderators working on it.
-{% endhint %}
 
 If you have any queries in relation to submitting or updating content on the site, feel free to ask a [moderator ](moderator/moderator-list.md)on the [website ](http://anilist.co)or on [Discord](http://discord.me/anilist).
 
