@@ -61,13 +61,13 @@ Example:
 | Adaptation | Source | A work adapted into a new format. |
 | Prequel | Sequel | A story preceding the current work \(chronologically\). |
 | Sequel | Prequel | A story succeeding the current work \(chronologically\). |
-| Side Story | Parent | Often a supplemental work. |
 | Character | Character | A work only related by containing the same character\(s\). |
-| Summary | Parent | A summary of a parent work. |
 | Alternative | Alternative | An alternative version. \(Not a straight adaptation\) |
-| Spin Off | Parent | A work deviated from the main series. |
-| Compilation | Contains | A compilation of separate works \(eg. one-shot anthologies\) |
 | Contains | Compilation | A singular work  \(eg. one-shot\) |
+| Compilation | Contains | A compilation of separate works \(eg. one-shot anthologies\) |
+| Side Story | Parent | Often a supplemental work. |
+| Spin Off | Parent | A work deviated from the main series. |
+| Summary | Parent | A summary of a parent work. |
 | Other | Parent | Please refrain from using this option as much as possible, and only when the work definitely does not relate in any other form or the relation is presently unknown. |
 | Parent |  | The tree for side stories, characters, summaries, spin off’s, etc. \(cannot be manually set\). |
 
