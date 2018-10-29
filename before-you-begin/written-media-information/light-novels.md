@@ -20,7 +20,9 @@ Example light novel labels include things such as:
 [Gagaga Bunko](http://gagagabunko.jp/)  
 [GA Bunko](https://ga.sbcr.jp/)  
 [Media Works Bunko](http://mwbunko.com/)  
-[Alpha Light Bunko](http://www.alphalight-books.com/)
+[Alpha Light Bunko](http://www.alphalight-books.com/)  
+[Puchipara Bunko](http://parabook.co.jp/novels/puchipara.php) \(**adult**\)  
+[Bishoujo Bunko](http://www.bishojobunko.jp/) \(**adult**\)
 {% endtab %}
 {% endtabs %}
 
