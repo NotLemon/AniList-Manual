@@ -16,7 +16,7 @@ This is the initial release of the second version of the Data Management tool an
   * **Doujinshi**
   * **Anime**
   * **Novel** 
-    * _Any works adapted from full novels caught in the Novel to Light Novel change \(see_ [_fixed_](changelog.md#fixed)_\) will have to be manually correct to the new Novel source._
+    * _Any works adapted from full novels caught in the Novel to Light Novel change \(see_ [_fixed_](changelog.md#fixed)_\) will have to be manually corrected to the new Novel source._
 * Two new opposite [relations](submission-form/relations.md), '**Contains**' and '**Compilation**', for linking [one-shots](before-you-begin/written-media-information/one-shots.md) into anthology collections and vice versa have been added to the website.
   * **Example**: [Shuuden ni wa Kaeshimasu](https://anilist.co/manga/85662/Shuuden-ni-wa-Kaeshimasu/)
 * A [locked ](submission-form/general/misc/locked.md)toggle to restrict ability to add/favourite entries has been added to the website.
