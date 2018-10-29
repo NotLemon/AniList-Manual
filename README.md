@@ -2,12 +2,12 @@
 
 ## Preface
 
-Adding or modifying an entry on AniList is an easy task. The main focus is making sure that data is accurate and as complete as possible for that moment in time. All forms are formatted in a similar fashion and have handy tool-tips to assist in each section.
+Adding or modifying an entry on AniList is an easy task. The main focus is making sure that data is accurate and as complete as possible for that moment in time. All sections of the form are formatted in a similar fashion and have handy tool-tips to assist you.
 
-When a user provides a submission it will undergo a review process where a moderator can approve or refuse the additions or changes made - it is extremely helpful to provide as many [sources](before-you-begin/sourcing/) as possible to confirm the change.
+When a user provides a submission it will undergo a review process where a moderator can approve or deny the additions and/or changes made - it is extremely helpful to provide as many [sources](before-you-begin/sourcing/) as possible to confirm the information you want to submit.
 
 {% hint style="info" %}
-You will be able to alter and view the status of your submissions plus receive comments from moderators working on it.
+After making a submission, you will be able still be able to edit it, as well as view the status of your submissions, plus receive comments from any moderators working on it.
 {% endhint %}
 
 If you have any queries in relation to submitting or updating content on the site, feel free to ask a [moderator ](moderator/moderator-list.md)on the [website ](http://anilist.co)or on [Discord](http://discord.me/anilist).
@@ -15,12 +15,12 @@ If you have any queries in relation to submitting or updating content on the sit
 Any changes to this guide or database will be announced on the [website](http://anilist.co) and also written in the manual [change log](changelog.md).
 
 {% hint style="warning" %}
-It is _**highly recommended**_ that you read the both the [Checklist](before-you-begin/before-you-begin.md) and [Animated ](before-you-begin/animated-media-information/)and [Written ](before-you-begin/written-media-information/)Media Specification sections prior to any submissions, or at least relevant sections within it.
-
-The latter section states what _**is**_ and _**is not**_ accepted onto the database and provides many helpful tips within.
+Please Remember. This site is _**only**_ for works of Japanese, Korean, Chinese, and Taiwanese origins as specified in '[Country of Origin](submission-form/general/typings/untitled-8.md)'
 {% endhint %}
 
 {% hint style="warning" %}
-Please Remember. This site is for specific works of Japanese, Korean, Chinese, and Taiwanese origins as specified in '[Country of Origin](submission-form/general/typings/untitled-8.md)'
+It is _**highly recommended**_ that you read the both the [Checklist](before-you-begin/before-you-begin.md) and [Animated ](before-you-begin/animated-media-information/)and [Written ](before-you-begin/written-media-information/)Media Specification sections prior to any submissions, or at least relevant sections within it.
+
+The latter section states what _**is**_ and _**is not**_ accepted onto the database and provides many helpful tips within.
 {% endhint %}
 
