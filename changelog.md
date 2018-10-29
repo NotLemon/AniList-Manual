@@ -31,7 +31,7 @@ This is the initial release of the second version of the Data Management tool an
 ### Fixed
 
 * The **Novel** [format ](submission-form/general/typings/untitled-6.md)is now correctly displayed as **Light Novel** throughout the website.
-* **Character** relation **\*\*will now set** Character\*\* on the opposite relation.
+* **Character** relation will now set **Character** on the opposite relation.
 * **Summary** relation will now set **Parent** on the opposite relation
 * **Side Story** relation will now set **Parent** on the opposite relation.
 
