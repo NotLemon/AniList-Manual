@@ -4,6 +4,10 @@
 
 There is a limitation on manhwa that can be accepted to the site, notably they should be professionally published works through a reputable Korean publisher.
 
+{% hint style="info" %}
+Refer to the [Web Platform List](web-platform-list-not-exhaustive.md) for a list of most major professional publishers.
+{% endhint %}
+
 _**Don’t**_ accept works from parts of sites \(and others\) where any users can submit works, such as [Naver](https://comic.naver.com/)’s '_Best Challenge/Challenge_' section, or [Daum](http://webtoon.daum.net/)’s '_League_' section.
 
 {% hint style="warning" %}

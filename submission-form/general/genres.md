@@ -4,3 +4,18 @@ List any relevant genres to the entry, always try to include at least two or thr
 
 ![The genres for the &apos;Ao Buta&apos; anime](../../.gitbook/assets/genres.png)
 
+## List of Genres
+
+|  |  |
+| :--- | :--- |
+| Action | Music |
+| Adventure | Mystery |
+| Comedy | Psychological |
+| Drama | Romance |
+| Ecchi | Sci-Fi |
+| Fantasy | Slice of Life |
+| Hentai | Sports |
+| Horror | Supernatural |
+| Mahou Shoujo | Thriller |
+| Mecha |  |
+

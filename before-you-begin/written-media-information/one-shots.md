@@ -10,7 +10,7 @@ Self-published works are not classed as one-shots. However, if the author is alr
 
 ## Compilations and Anthologies
 
-It is acceptable for _**both**_ the standalone one-shot and any anthology or collection it is compiled into to be added to the website. These must be linked through the ‘**contains**’ and '**compilation**' _\*\*_[relations](../../submission-form/relations.md).
+It is acceptable for _**both**_ the standalone one-shot and any anthology or collection it is compiled into to be added to the website. These must be linked through the ‘**contains**’ and '**compilation**' [relations](../../submission-form/relations.md).
 
 Example:
 

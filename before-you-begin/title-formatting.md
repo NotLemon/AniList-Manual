@@ -22,7 +22,7 @@ If a 'season' of the show will air for multiple seasons, but has at least a one 
 
 Example
 
-> The third season began airing in Summer 2018, but misses Fall 2018, Winter 2019 and [continues ](https://anilist.co/anime/104578/Shingeki-no-Kyojin-3-Part-2/)in Spring 2019. The titles would be:  
+> The third season began airing in Summer 2018, but misses Fall 2018, Winter 2019 and [continues](https://anilist.co/anime/104578/Shingeki-no-Kyojin-3-Part-2/) in Spring 2019. The titles would be:  
 >   
 > Native: 進撃の巨人３  
 > Romaji: Shingeki no Kyojin 3 Part 2  
@@ -45,7 +45,7 @@ Examples of how to deal with non-alphanumeric characters in titles can be seen i
 * Titles which feature subtitles separated full-width tildes \(～\) or other similar separators should be separated with a colon.  
 * Japanese quotes _\*\*_\(「」\) should be converted to English double-quotes \(" "\).  
 * Symbols like stars \(☆\) and musical notes \(♪\) should remain.  
-* Titles using full-width tildes to elongate words should be [romanised ](romanisation.md)without. \(み〜つけた &gt; Mitsuketa\).  
+* Titles using full-width tildes to elongate words should be [romanised](romanisation.md) without. \(み〜つけた &gt; Mitsuketa\).  
 * Hashtags in titles should remain without spaces when [romanised](romanisation.md), however a version with spaces should ideally be placed in the synonyms.  
 * Special things such as kaomoji \(顔文字\) should not be [romanised](romanisation.md).
 

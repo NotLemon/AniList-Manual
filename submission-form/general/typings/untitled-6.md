@@ -19,7 +19,7 @@
 | Format | Description |
 | :--- | :--- |
 | [Manga](../../../before-you-begin/written-media-information/manga.md) | Professionally published manga with more than one chapter. |
-| [Light Novel]() | Light Novels. |
+| ~~~~[~~Light Novel~~]()~~~~ | Light Novels. |
 | [One-Shot](../../../before-you-begin/written-media-information/one-shots.md) | Manga with just one chapter. This includes pilots for manga that were published fully afterwards. |
 | [Doujin](../../../before-you-begin/written-media-information/doujinshi.md) | Self-published manga. |
 

@@ -12,9 +12,9 @@ Example 1:
 
 Example 2:
 
-> [Shelter ](https://anilist.co/anime/97731/Shelter/)is a Canadian produced song However, the music video was a collaborative work with the animation studio [A-1 Pictures](https://anilist.co/studio/561/A1-Pictures). It was directed by [Toshifumi Akai](https://anilist.co/staff/110949). as well as featuring voice acting by [Sachika Misawa](https://anilist.co/staff/102337/Sachika-Misawa).
+> [Shelter](https://anilist.co/anime/97731/Shelter/) is a Canadian produced song However, the music video was a collaborative work with the animation studio [A-1 Pictures](https://anilist.co/studio/561/A1-Pictures). It was directed by [Toshifumi Akai](https://anilist.co/staff/110949). as well as featuring voice acting by [Sachika Misawa](https://anilist.co/staff/102337/Sachika-Misawa).
 
 Example 3:
 
-> The music video for [Breaking the Habit](https://en.wikipedia.org/wiki/Breaking_the_Habit_%28song%29) by Linkin' Park would not be eligible for the database. Although it did feature rotoscoped animation by Studio Gonzo, it was directed and produced by Joe Hahn and Eric Calderon respectively.
+> The music video for [Breaking the Habit \(Wikipedia\)](https://en.wikipedia.org/wiki/Breaking_the_Habit_%28song%29), by Linkin' Park, would not be eligible for the database. Although it did feature rotoscoped animation by Studio Gonzo, it was directed and produced by Joe Hahn and Eric Calderon respectively.
 

@@ -12,9 +12,9 @@ Even if a title is animated by these studios, it may not be added to the site du
 
 Example 1:
 
-> [Bakemonogatari ](https://anilist.co/anime/5081/Bakemonogatari/)was produced by the Japanese studio [Shaft](https://anilist.co/studio/44/Shaft), and the primary staff \(director, writers, etc\) are also Japanese.
+> [Bakemonogatari](https://anilist.co/anime/5081/Bakemonogatari/) was produced by the Japanese studio [Shaft](https://anilist.co/studio/44/Shaft), and the primary staff \(director, writers, etc\) are also Japanese.
 
 Example 2:
 
-> [RWBY ](https://en.wikipedia.org/wiki/RWBY)has a Japanese dub and was broadcast on Japanese TV. However, as it was produced by an American company _\(Rooster Teeth_\) and its primary staff \(director, writers, etc.\) are also American, it would not meet the anime criteria for this database.
+> [RWBY](https://en.wikipedia.org/wiki/RWBY) has a Japanese dub and was broadcast on Japanese TV. However, as it was produced by an American company _\(Rooster Teeth_\) and its primary staff \(director, writers, etc.\) are also American, it would not meet the anime criteria for this database.
 

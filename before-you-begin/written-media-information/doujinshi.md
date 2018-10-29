@@ -16,6 +16,6 @@ Example:
 {% endhint %}
 
 {% hint style="info" %}
-Some doujinshi that enter serialisation may be converted to the manga format provided the new serialisation is not an entirely new work. Please refer to [manga ](manga.md#doujinshi-into-manga)for more information.
+Some doujinshi that enter serialisation may be converted to the manga format provided the new serialisation is not an entirely new work. Please refer to [manga](manga.md#doujinshi-into-manga) for more information.
 {% endhint %}
 

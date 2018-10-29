@@ -22,6 +22,6 @@ Examples:
 | 滅び時だと彼女は告げた \#異能犯罪捜査〈零局〉 | Horobi Doki dato Kanojo wa Tsugeta \#InouHanzaiSousa &lt;Rei Kyoku&gt; |
 
 {% hint style="info" %}
-Please see the [title formatting ](title-formatting.md)section for information on how format titles.
+Please see the [title formatting](title-formatting.md) section for information on how format titles.
 {% endhint %}
 
