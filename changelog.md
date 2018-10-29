@@ -19,7 +19,10 @@ This is the initial release of the second version of the Data Management tool an
     * _Any works adapted from full novels caught in the Novel to Light Novel change \(see_ [_fixed_](changelog.md#fixed)_\) will have to be manually corrected to the new Novel source._
 * Two new opposite [relations](submission-form/relations.md), '**Contains**' and '**Compilation**', for linking [one-shots](before-you-begin/written-media-information/one-shots.md) into anthology collections and vice versa have been added to the website.
   * **Example**: [Shuuden ni wa Kaeshimasu](https://anilist.co/manga/85662/Shuuden-ni-wa-Kaeshimasu/)
-* A [locked ](submission-form/general/misc/locked.md)toggle to restrict ability to add/favourite entries has been added to the website.
+* A [locked ](submission-form/general/misc/locked.md)toggle to restrict ability to add and favourite entries has been added to the website
+* [Characters ](submission-form/characters/adding-characters.md)can now be imported from existing entries and then modified.
+  * Staff import will come at a later date.
+* You can now upload images directly from your device.
 * A [tools ](before-you-begin/sourcing/tools/)section has been included in the manual.
 * A guide to [sourcing ](before-you-begin/sourcing/)information has been included in the manual.
 * A [romanisation ](before-you-begin/romanisation.md)guide has been included in the manual.
@@ -27,7 +30,6 @@ This is the initial release of the second version of the Data Management tool an
 * A [tags ](tags/tag-management.md)guide has been included in the manual.
 * The [Mod Tools](moderator/mod-tools.md)[ ](moderator/mod-tools.md)have been included in the manual.
 * A list of [moderators ](moderator/moderator-list.md)has been included in the manual.
-* You can now upload images directly from your device.
 
 ### Fixed
 
@@ -50,4 +52,6 @@ This is the initial release of the second version of the Data Management tool an
   * Effect should be minimal as they were still being included.
 * Recommended minimum [image dimensions](before-you-begin/image-dimensions-and-template.md) for creating or cropping images have been changed
 * The doujin format has now been replaced by a [licensed ](submission-form/general/misc/licensed.md)toggle to specify whether the work is [doujinshi](before-you-begin/written-media-information/doujinshi.md).
+
+
 
