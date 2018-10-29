@@ -55,19 +55,19 @@ Example:
 >   
 > Two spin-offs, [Mushoku Tensei - Roxy datte Honki desu](https://anilist.co/manga/104724/Mushoku-Tensei--Roxy-datte-Honki-desu/) and [Mushoku Tensei: 4-koma ni Natte mo Honki Dasu](https://anilist.co/manga/104856/Mushoku-Tensei-4koma-ni-Natte-mo-Honki-Dasu/), were then serialised in December 2017 and October 2018 respectively. Both spin-offs only branch off the light novel, and _**not**_ the manga, so are only be linked to the light novel.
 
-| Relation Type | Usage |
-| :--- | :--- |
-| Source | The original source of an adaptation. |
-| Adaptation | A work adapted into a new format. |
-| Prequel | A story preceding the current work \(chronologically\). |
-| Sequel | A story succeeding the current work \(chronologically\). |
-| Side Story | Often a supplemental work. |
-| Character | A work only related by containing the same character\(s\). |
-| Summary | A summary of a parent work. |
-| Alternative | An alternative version. \(Not a straight adaptation\) |
-| Spin Off | A work deviated from the main series. |
-| Compilation | A compilation of separate works \(eg. one-shot anthologies\) |
-| Singular | A singular work  \(eg. one-shot\) |
-| Parent | The tree for side stories, characters, summaries, spin off’s, etc. |
-| Other | Please refrain from using this option as much as possible, and only when the work definitely does not relate in any other form or the relation is presently unknown. |
+| Relation | Opposite | Usage |
+| :--- | :--- | :--- |
+| Source | Adaptation | The original source of an adaptation. |
+| Adaptation | Source | A work adapted into a new format. |
+| Prequel | Sequel | A story preceding the current work \(chronologically\). |
+| Sequel | Prequel | A story succeeding the current work \(chronologically\). |
+| Side Story | Parent | Often a supplemental work. |
+| Character | Character | A work only related by containing the same character\(s\). |
+| Summary | Parent | A summary of a parent work. |
+| Alternative | Alternative | An alternative version. \(Not a straight adaptation\) |
+| Spin Off | Parent | A work deviated from the main series. |
+| Compilation | Contains | A compilation of separate works \(eg. one-shot anthologies\) |
+| Contains | Compilation | A singular work  \(eg. one-shot\) |
+| Other | Parent | Please refrain from using this option as much as possible, and only when the work definitely does not relate in any other form or the relation is presently unknown. |
+| Parent |  | The tree for side stories, characters, summaries, spin off’s, etc. \(cannot be manually set\). |
 
