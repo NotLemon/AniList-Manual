@@ -36,7 +36,7 @@
 ## Submission Form
 
 * [General](submission-form/general/README.md)
-  * [Submission Sources](submission-form/general/source.md)
+  * [Submission Sources & Notes](submission-form/general/submission-sources.md)
   * [Titles](submission-form/general/titles.md)
   * [Release Data](submission-form/general/release-data/README.md)
     * [Release Status](submission-form/general/release-data/release-status.md)

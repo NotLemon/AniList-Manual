@@ -2,7 +2,7 @@
 
 ## Contents:
 
-* [Submission Sources](source.md)
+* [Submission Sources](submission-sources.md)
 * [Titles](titles.md)
 * [Release Data](release-data/)
   * [Release Status](release-data/release-status.md)
