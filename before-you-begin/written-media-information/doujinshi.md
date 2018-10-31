@@ -8,6 +8,8 @@ Doujinshi can be added to the website if it meets all the following criteria:
 2. It meets the Japanese '[Country Of Origin](../../submission-form/general/typings/untitled-8.md)'.  
 3. The doujinshi is not based on existing published material \(anime, manga, manhwa etc.\) - it must be an _**original**_ work.
 
+Doujinshi is not a format on AniList, instead, you have to the toggle the [licensed ](../../submission-form/general/misc/licensed.md)option.
+
 {% hint style="warning" %}
 The ‘_original work_’ rule can be waived if the doujinshi in question is by the original author of the existing material.
 

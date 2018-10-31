@@ -19,11 +19,10 @@
 | Format | Description |
 | :--- | :--- |
 | [Manga](../../../before-you-begin/written-media-information/manga.md) | Professionally published manga with more than one chapter. |
-| ~~~~[~~Light Novel~~]()~~~~ | Light Novels. |
+| [Light Novel](../../../before-you-begin/written-media-information/light-novels.md) | Light Novels. |
 | [One-Shot](../../../before-you-begin/written-media-information/one-shots.md) | Manga with just one chapter. This includes pilots for manga that were published fully afterwards. |
-| [Doujin](../../../before-you-begin/written-media-information/doujinshi.md) | Self-published manga. |
 
-{% hint style="info" %}
-The ‘[Country Of Origin](untitled-8.md)’ filter is used to specify works as of being of an origin other than Japanese \(for manhua, manhwa etc\).
+{% hint style="warning" %}
+[Doujinshi](../../../before-you-begin/written-media-information/doujinshi.md), [Manhua ](../../../before-you-begin/written-media-information/manhua.md)and [Manwha ](../../../before-you-begin/written-media-information/manhwa.md)are not separate formats on AniList. instead, you have to the toggle the [licensed ](../misc/licensed.md)option for doujinshi, or change the [Country Of Origin](untitled-8.md) for manhua and manwha.
 {% endhint %}
 

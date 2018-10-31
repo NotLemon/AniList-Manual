@@ -52,7 +52,7 @@ This is the initial release of the second version of the Data Management tool an
 * The incorrect statement on the previous manual that extra chapters \(such as prologues, epilogues and .5's\) are not included in the total chapter count has been removed.
   * Effect should be minimal as they were still being included.
 * Recommended minimum [image dimensions](before-you-begin/image-dimensions-and-template.md) for creating or cropping images have been changed
-* The doujin format has now been replaced by a [licensed](submission-form/general/misc/licensed.md) toggle to specify whether the work is [doujinshi](before-you-begin/written-media-information/doujinshi.md).
+* The doujinshi format has now been replaced by a [licensed](submission-form/general/misc/licensed.md) toggle to specify whether the work is [doujinshi](before-you-begin/written-media-information/doujinshi.md).
 
 
 
