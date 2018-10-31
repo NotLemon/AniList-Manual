@@ -6,7 +6,7 @@ description: >-
 
 # Change Log
 
-## 2.0.0 - 2018-10-28 - New System & Manual
+## 2.0.0 - 2018-10-XX - New System & Manual
 
 This is the initial release of the second version of the Data Management tool and accompanying manual. The scope of the manual has expanded greatly from the original and is the point of reference for all users and moderators.
 
