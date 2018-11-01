@@ -20,6 +20,10 @@ Pornographic works should have appropriate censoring of the genitals and visible
 
 ![Image addition page for the &apos;City Hunter&apos; anime](../../.gitbook/assets/images.png)
 
+{% hint style="info" %}
+Local image uploading is available to moderators only.
+{% endhint %}
+
 ## Animated Media
 
 For anime, the cover can be a key visual, announcement piece for a new anime, a textless VHS/DVD/BD cover, official illustration, and, in cases where nothing decent is available, a screenshot or cropped piece from the work itself.

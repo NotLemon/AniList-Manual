@@ -62,6 +62,10 @@ If you have to crop or create new images then 230x345px is the recommended minim
 Please refer to [Image Dimensions and Templates](../../before-you-begin/image-dimensions-and-template.md), if required.
 {% endhint %}
 
+{% hint style="info" %}
+Local image uploading is available to moderators only.
+{% endhint %}
+
 {% tabs %}
 {% tab title="Good Images" %}
 ![](../../.gitbook/assets/char_good_1.png)

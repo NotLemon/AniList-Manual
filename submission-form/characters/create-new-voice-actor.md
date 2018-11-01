@@ -62,6 +62,10 @@ For many staff, images such as Twitter, Pixiv, or personal blog avatars can be s
 Example: [Yamakawa Naoto](https://anilist.co/staff/105479/Naoto-Yamakawa), [Takayama Tatari](https://anilist.co/staff/128291/Tatari-Takayama)
 {% endhint %}
 
+{% hint style="info" %}
+Local image uploading is available to moderators only.
+{% endhint %}
+
 {% tabs %}
 {% tab title="Good Images" %}
 ![](../../.gitbook/assets/staff_good_1.jpg)
