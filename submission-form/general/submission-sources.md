@@ -14,7 +14,7 @@ _Please note the sources for this example are all Japanese as there was no Engli
   
 I first heard about [Alice-tachi no Hyouhon](https://anilist.co/manga/104652) from seeing the article in Natalie's [new serialisation](https://natalie.mu/comic/tag/43) feed. The specific article is [https://natalie.mu/comic/news/304388](https://natalie.mu/comic/news/304388).  
   
-This article contains the series title \(アリスたちの標本\) and the author's name \(小松万記\). It also mentions the magazine issue containing the first chapter \(週刊漫画TIMES11月2日\) went on sale on the day of article posting \(10月19日発売\). It also provides two images that could possibly be used as a temporary cover or character portraits - the first image also includes the romaji reading of the author's name. The rest of the article is a description of the story.  
+This article contains the series title \(アリスたちの標本\) and the author's name \(小松万記\). It also mentions the magazine issue containing the first chapter \(週刊漫画TIMES11月2日\) went on sale on the day of article posting \(本日10月19日発売\). It also provides two images that could possibly be used as a temporary cover or character portraits - the first image also includes the romaji reading of the author's name. The rest of the article is a description of the story.  
   
 There are two links below the article, one to the magazine \([https://shukanmanga.jp/](https://shukanmanga.jp/)\), and another to the author's Twitter \([https://twitter.com/kmtmaki](https://twitter.com/kmtmaki)\). Googling the author's name can also often bring up Twitter profiles, blogs, or wikipedia articles.  
   
