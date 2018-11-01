@@ -10,7 +10,7 @@ Please see the [Websites ](../../before-you-begin/sourcing/websites.md)section f
 
 ## Information Sourcing Example
 
-_Please note the sources for this example are all Japanese, as there was no English information at the time. All the example is for is to help state the value of finding as much information as possible._  
+_Please note the sources for this example are all Japanese as there was no English information at the time. All the example is for is to help state the value of finding as much information as possible._  
   
 I first heard about [Alice-tachi no Hyouhon](https://anilist.co/manga/104652) from seeing the article in Natalie's [new serialisation](https://natalie.mu/comic/tag/43) feed. The specific article is [https://natalie.mu/comic/news/304388](https://natalie.mu/comic/news/304388).  
   
