@@ -68,35 +68,20 @@ Local image uploading is available to moderators only.
 
 {% tabs %}
 {% tab title="Good Images" %}
-![](../../.gitbook/assets/char_good_1.png)
-
-![](../../.gitbook/assets/char_good_2.jpg)
-
-![](../../.gitbook/assets/char_good_3.png)
-
-![](../../.gitbook/assets/char_good_4.png)
-
-![](../../.gitbook/assets/char_good_5.png)
-
-![](../../.gitbook/assets/char_good_6.png)
-
-![](../../.gitbook/assets/char_good_7.jpg)
-
-![](../../.gitbook/assets/char_good_8.jpg)
+|  |  |
+| :--- | :--- |
+| ![](../../.gitbook/assets/char_good_2.jpg) | ![](../../.gitbook/assets/char_good_1.png) |
+| ![](../../.gitbook/assets/char_good_3.png) | ![](../../.gitbook/assets/char_good_4.png) |
+| ![](../../.gitbook/assets/char_good_5.png) | ![](../../.gitbook/assets/char_good_6.png) |
+| ![](../../.gitbook/assets/char_good_7.jpg) | ![](../../.gitbook/assets/char_good_8.jpg) |
 {% endtab %}
 
 {% tab title="Bad Images" %}
-![](../../.gitbook/assets/char_bad_2.jpg)
-
-![](../../.gitbook/assets/char_bad_3.png)
-
-![](../../.gitbook/assets/char_bad_1.jpg)
-
-![](../../.gitbook/assets/char_bad_4.png)
-
-![](../../.gitbook/assets/char_bad_5.png)
-
-![](../../.gitbook/assets/char_bad_6.jpg)
+|  |  |
+| :--- | :--- |
+| ![](../../.gitbook/assets/char_bad_2.jpg) | ![](../../.gitbook/assets/char_bad_3.png) |
+| ![](../../.gitbook/assets/char_bad_1.jpg) | ![](../../.gitbook/assets/char_bad_4.png) |
+| ![](../../.gitbook/assets/char_bad_5.png) | ![](../../.gitbook/assets/char_bad_6.jpg) |
 {% endtab %}
 {% endtabs %}
 
