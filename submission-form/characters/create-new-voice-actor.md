@@ -68,21 +68,17 @@ Local image uploading is available to moderators only.
 
 {% tabs %}
 {% tab title="Good Images" %}
-![](../../.gitbook/assets/staff_good_1.jpg)
-
-![](../../.gitbook/assets/staff_good_2.jpg)
-
-![](../../.gitbook/assets/staff_good_3.jpg)
-
-![](../../.gitbook/assets/staff_good_4.png)
-
-![](../../.gitbook/assets/staff_good_5.png)
-
-![](../../.gitbook/assets/staff_good_6.png)
+|  |  |
+| :--- | :--- |
+| ![](../../.gitbook/assets/staff_good_1.jpg) | ![](../../.gitbook/assets/staff_good_2.jpg) |
+| ![](../../.gitbook/assets/staff_good_4.png) | ![](../../.gitbook/assets/staff_good_5.png) |
+| ![](../../.gitbook/assets/staff_good_3.jpg) | ![](../../.gitbook/assets/staff_good_6.png) |
 {% endtab %}
 
 {% tab title="Bad Images" %}
-![](../../.gitbook/assets/staff_bad_1.jpg)
+|  |  |
+| :--- | :--- |
+| ![](../../.gitbook/assets/staff_bad_1.jpg) |  |
 {% endtab %}
 {% endtabs %}
 
