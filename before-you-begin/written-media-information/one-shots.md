@@ -2,7 +2,13 @@
 
 ## Database Criteria
 
-One-shots can be added to the site provided they been published in a reputable, professional, Japanese magazine. They are single, standalone works with a self-contained story.
+One-shots can be added to the site provided they been published in a reputable, professional, Japanese magazine.   
+  
+They are single, standalone works with a self-contained story. This means that any series with more than one chapter is _**not**_ a one-shot.
+
+{% hint style="info" %}
+If a published one-shot has a serialisation announced, a new entry will be created for the new serialisation under the **manga** format. The two works will be linked through the **alternative** [relation](../../submission-form/relations.md).
+{% endhint %}
 
 {% hint style="warning" %}
 Self-published works are not classed as one-shots. However, if the author is already serialised, self-published works could instead possibly be classed as [doujinshi](doujinshi.md).
