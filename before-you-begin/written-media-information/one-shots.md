@@ -2,7 +2,7 @@
 
 ## Database Criteria
 
-One-shots can be added to the site provided they been published in a reputable, professional, magazine. They are single, standalone works with a self-contained story.
+One-shots can be added to the site provided they been published in a reputable, professional, Japanese magazine. They are single, standalone works with a self-contained story.
 
 {% hint style="warning" %}
 Self-published works are not classed as one-shots. However, if the author is already serialised, self-published works could instead possibly be classed as [doujinshi](doujinshi.md).
