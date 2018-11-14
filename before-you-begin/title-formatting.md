@@ -44,7 +44,7 @@ If the media has no title, please use `(Title to be Announced)` in the romaji an
   
 If the media has a provisional title, please append `(Provisional Title)` to the end of the romaji title, and `（仮）`to the end of the native title.  
   
-It is highly recommended to write a temporary description containing the date of announcement, a possible link and the author .  
+It is highly recommended to write a temporary description containing the date of announcement, a link to a reputable article or website, and the author .  
   
 **Example:**
 
