@@ -2,10 +2,10 @@
 
 Romanisation of names and titles is done in a variation of [Traditional Hepburn](https://en.wikipedia.org/wiki/Hepburn_romanization#Variants).
 
-* Macrons are _**not**_ used. 
-* Loanwords are written properly in their respective languages  \(Example: _Maid_ instead of _Meido_\). 
-* Alternate spellings advocated by the creator\(s\) of the work are applied, if required. 
-* Words adopted into English are written in that standard  \(Example: _Tokyo_ and _Osaka_ instead of _Toukyou_ and _Oosaka_ respectively\). 
+* Macrons are _**not**_ used.  
+* Loanwords are written properly in their respective languages  \(Example: _Maid_ instead of _Meido_\).  
+* Alternate spellings advocated by the creator\(s\) of the work are applied, if required.  
+* Words adopted into English are written in that standard  \(Example: _Tokyo_ and _Osaka_ instead of _Toukyou_ and _Oosaka_ respectively\).  
 * Full-width punctuation should _**always**_ be converted to half-width or equivalent. \(。to . , ！to ! , ？to ?\)
 
 Examples:

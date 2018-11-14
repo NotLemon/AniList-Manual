@@ -4,13 +4,11 @@
 
 Adding or modifying an entry on AniList is an easy task. The main focus is making sure that data is accurate and as complete as possible for that moment in time. All sections of the form are formatted in a similar fashion and have handy tool-tips to assist you.
 
-{% hint style="info" %}
 Existing entries can be edited using the edit button at the bottom left of their page.  
   
 Existing staff and characters can be edited using the edit button at the top right of their profile.  
   
 New entries can be submitted using the submission links **XXX**.
-{% endhint %}
 
 When a user provides a submission it will undergo a review process where a moderator can approve or deny the additions and/or changes made - it is extremely helpful to provide as many [sources](before-you-begin/sourcing/) as possible to confirm the information you want to submit.
 
@@ -29,16 +27,16 @@ After making a submission, you will be able still be able to edit it, as well as
 
 If you have any queries in relation to submitting or updating content on the site, feel free to ask a [moderator ](moderator/moderator-list.md)on the [website ](http://anilist.co)or on [Discord](http://discord.me/anilist).
 
-Any changes to this guide or database will be announced on the [website](http://anilist.co) and also written in the manual [change log](changelog.md).
+Any changes to this guide or database will be announced on the website and also written in the manual [change log](changelog.md).
 
 {% hint style="warning" %}
-Please Remember. This site is _**only**_ for works of Japanese, Korean, Chinese, and Taiwanese origins as specified in '[Country of Origin](submission-form/general/typings/untitled-8.md)'
+Please Remember. This site is _**only**_ for works of Japanese, Korean, Chinese, and Taiwanese origins as specified in '[Country of Origin](submission-form/general/typings/untitled-8.md).'
 {% endhint %}
 
 {% hint style="warning" %}
 It is _**highly recommended**_ that you read the both the [Checklist](before-you-begin/before-you-begin.md) and [Animated ](before-you-begin/animated-media-information/)and [Written ](before-you-begin/written-media-information/)Media Specification sections prior to any submissions, or at least relevant sections within it.
 
-The latter section states what _**is**_ and _**is not**_ accepted onto the database and provides many helpful tips within.
+The latter sections states what _**is**_ and _**is not**_ accepted onto the database and provides many helpful tips within.
 {% endhint %}
 
 

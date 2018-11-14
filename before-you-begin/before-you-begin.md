@@ -18,6 +18,8 @@ If you’re unsure about anything, contact a [moderator](../moderator/moderator-
 However, please do not expect that you can hand a moderator a link and have them do all the work for you.
 {% endhint %}
 
+## Example Images
+
 ![The media page for the &apos;Ao Buta&apos; anime](../.gitbook/assets/entry_ao_buta.png)
 
 ![The General page for the &apos;Ao Buta&apos; anime](../.gitbook/assets/general.png)

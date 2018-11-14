@@ -1,6 +1,6 @@
 # Web Platform List \(Not Exhaustive\)
 
-The below list contains web platforms or self-publishing services that often cause confusion on whether the series is allowed or not. It is mostly for referencing rather than a complete list of what _is_ or i_s not_ allowed and can be expanded. Specific print and web magazines aren’t mentioned here.
+The below list contains web platforms or self-publishing services that often cause confusion on whether the series is allowed or not. It is mostly for referencing rather than a complete list of what is or is not allowed and can be expanded. Specific print and web magazines aren’t mentioned here.
 
 {% hint style="info" %}
 If one of the below accepted links exist, please add them to the [External Links](../../submission-form/external-links.md). Additionally, [Mavo ](https://www.mavo.co.jp/)and [Pixiv](http://pixiv.net), and [Twitter](http://twitter.com/) links can still be used for eligible [doujinshi](doujinshi.md).
