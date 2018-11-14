@@ -36,6 +36,28 @@ Example:
 
 > '[Fate/kaleid liner Prisma☆Illya](https://anilist.co/anime/14829/Fatekaleid-liner-PrismaIllya/)' has a side story with the title '[Fate/kaleid liner Prisma☆Illya Specials](https://anilist.co/anime/19109/Fatekaleid-liner-PrismaIllya-Specials/)'.
 
+## Untitled or Provisionally Titled Media
+
+It is fine to add newly announced work with no title or a provisional title providing there is still an official source to verify it. This is mostly common in manga magazines where announcements can be made for an author's new work months in advance.  
+  
+If the media has no title, please use `(Title to be Announced)` in the romaji and native fields.  
+  
+If the media has a provisional title, please append `(Provisional Title)` to the end of the romaji title, and `（仮）`to the end of the native title.  
+  
+It is highly recommended to write a temporary description containing the date of announcement, a possible link and the author .  
+  
+**Example:**
+
+```text
+<i>Serialisation of Shouto Aya's new work - announced 2018/10/25 - presently untitled.</i>
+<br>
+<a href="http://www.ganganonline.com/contents/big32018/">Announcement Link</a>
+```
+
+{% hint style="warning" %}
+Remember to follow news for the series so that the title can be updated as soon as possible.
+{% endhint %}
+
 ## Special Characters
 
 {% hint style="info" %}
@@ -43,7 +65,7 @@ Examples of how to deal with non-alphanumeric characters in titles can be seen i
 {% endhint %}
 
 * Titles which feature subtitles separated full-width tildes \(～\) or other similar separators should be separated with a colon.  
-* Japanese quotes _\*\*_\(「」\) should be converted to English double-quotes \(" "\).  
+* Japanese quotes \(「」\) should be converted to English double-quotes \(" "\).  
 * Symbols like stars \(☆\) and musical notes \(♪\) should remain.  
 * Titles using full-width tildes to elongate words should be [romanised](romanisation.md) without. \(み〜つけた &gt; Mitsuketa\).  
 * Hashtags in titles should remain without spaces when [romanised](romanisation.md), however a version with spaces should ideally be placed in the synonyms.  
