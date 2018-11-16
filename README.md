@@ -4,11 +4,16 @@
 
 Adding or modifying an entry on AniList is an easy task. The main focus is making sure that data is accurate and as complete as possible for that moment in time. All sections of the form are formatted in a similar fashion and have handy tool-tips to assist you.
 
-Existing entries can be edited using the edit button at the bottom left of their page.  
-  
-Existing staff and characters can be edited using the edit button at the top right of their profile.  
-  
-New entries can be submitted using the submission links **XXX**.
+#### Editing Entries
+
+Existing anime & manga entries can be edited using the edit button at the bottom left of their page.  
+Existing staff and characters can be edited using the edit icon button at the top right of their page.
+
+#### Adding New Entries
+
+New entries can be submitted using these submission links [Anime](https://anilist.co/edit/anime/new), [Manga](https://anilist.co/edit/manga/new). New Characters & Staff can only be created from the anime & manga's character & staff sub-pages.
+
+#### Submission Approval
 
 When a user provides a submission it will undergo a review process where a moderator can approve or deny the additions and/or changes made - it is extremely helpful to provide as many [sources](before-you-begin/sourcing/) as possible to confirm the information you want to submit.
 
