@@ -3,7 +3,8 @@
 This section allows you to manage the airing schedule for broadcasts.
 
 {% hint style="info" %}
-This section is available to moderators only. For any issues regarding airing dates and delays, contact a [moderator](../moderator/moderator-list.md).
+This section is available to moderators only.   
+For any issues regarding airing dates and delays, please contact a [moderator](../moderator/moderator-list.md).
 {% endhint %}
 
 ## Calendar

@@ -1,3 +1,7 @@
+---
+description: Animated works from Japan.
+---
+
 # Anime
 
 ## Database Criteria

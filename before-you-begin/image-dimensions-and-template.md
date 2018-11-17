@@ -1,10 +1,10 @@
-# Image Dimensions and Templates
+# Image Dimensions, and Templates
 
-Covers should ideally be close to a portrait 2:3 ratio.
+All images \(except banners\) should ideally be close to a portrait 2:3 ratio.
 
 Volume covers for manga and light novels - and many key illustrations for anime - aren't an exact 2:3 ratio, however they should be uploaded untouched.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 There is an exception to the 2:3 ratio for _temporary_ covers such as announcement images for new serialisations and new anime that can't be reasonably cropped.
 
 Examples can be seen in the [cover](../submission-form/images/cover.md) section.

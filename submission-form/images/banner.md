@@ -2,7 +2,7 @@
 
 A suitable image to use as the header banner in the entry for the anime. As with cover images, this should be _**official**_ artwork or assets only. The image should be of decent quality and not too gaudy, it is up to yourself what you think would look good as a banner.
 
-The image should be cropped to 1900x400 and either .jpg \(.jpeg\) or .png format. However .png banners will be converted to .jpg \(.jpeg\) for storage.
+The image should ideally be cropped to _1900x400px_ and either .jpg \(.jpeg\) or .png format. However .png banners will be converted to .jpg \(.jpeg\) for storage.
 
 {% hint style="info" %}
 Please refer to [Image Dimensions and Templates](../../before-you-begin/image-dimensions-and-template.md), if required.

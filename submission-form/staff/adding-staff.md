@@ -8,3 +8,5 @@ The popup after pressing the ‘_Add Staff_’ button will let you search for th
 
 ![Staff addition panel for the &apos;City Hunter&apos; anime](../../.gitbook/assets/add_staff_roles.png)
 
+
+

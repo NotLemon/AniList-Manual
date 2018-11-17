@@ -1,3 +1,7 @@
+---
+description: Light Novels from Japan.
+---
+
 # Light Novels
 
 ## Database Criteria

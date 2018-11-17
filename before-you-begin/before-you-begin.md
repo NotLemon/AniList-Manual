@@ -3,7 +3,7 @@
 * Make sure the work, character, actor, or staff isn’t already in the database.
 
 {% hint style="info" %}
-You can check by running English, native language, and romaji titles through the search and [browse](https://anilist.co/search/anime) sections, as well as going through the credits of staff and characters.
+You can check by running English, native language, and romaji titles through the search and [browse](https://anilist.co/search/anime) sections, as well as going through the credits of relevant staff and characters.
 {% endhint %}
 
 * Always include as much detail as possible, as well as link to as many sources as possible in the sources panel \(even if it is in a language you can’t read\).  

@@ -1,3 +1,7 @@
+---
+description: Comics from Japan.
+---
+
 # Manga
 
 ## Database Criteria

@@ -20,8 +20,10 @@ Pornographic works should have appropriate censoring of the genitals and visible
 
 ![Image addition page for the &apos;City Hunter&apos; anime](../../.gitbook/assets/images.png)
 
+![Image addition panel on submission forms.](../../.gitbook/assets/image_upload_url.png)
+
 {% hint style="info" %}
-Local image uploading is available to moderators only.
+Local image upload is currently available to moderators only.
 {% endhint %}
 
 ## Animated Media

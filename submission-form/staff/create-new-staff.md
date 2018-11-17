@@ -66,7 +66,7 @@ Example: [Yamakawa Naoto](https://anilist.co/staff/105479/Naoto-Yamakawa), [Taka
 {% endhint %}
 
 {% hint style="info" %}
-Local image uploading is available to moderators only.
+Local image upload is currently available to moderators only.
 {% endhint %}
 
 {% tabs %}

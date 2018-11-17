@@ -11,7 +11,7 @@ The popup after pressing the ‘_Add Characters_’ button will let you search f
 ## Import
 
 {% hint style="info" %}
-This section is available to moderators only.
+This feature is currently available to moderators only.
 {% endhint %}
 
 This will let you import every character and voice actor from another entry, which you can then modify as necessary.

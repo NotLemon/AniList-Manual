@@ -31,7 +31,7 @@
     * [Bookwalker Cover Grabber](before-you-begin/sourcing/tools/bookwalker-cover-grabber.md)
 * [Romanisation](before-you-begin/romanisation.md)
 * [Title Formatting](before-you-begin/title-formatting.md)
-* [Image Dimensions and Templates](before-you-begin/image-dimensions-and-template.md)
+* [Image Dimensions, and Templates](before-you-begin/image-dimensions-and-template.md)
 
 ## Submission Form
 

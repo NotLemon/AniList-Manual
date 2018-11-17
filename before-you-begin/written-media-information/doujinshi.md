@@ -1,3 +1,7 @@
+---
+description: Self-published Japanese comics.
+---
+
 # Doujinshi
 
 ## Database Criteria

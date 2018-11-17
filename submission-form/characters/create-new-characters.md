@@ -63,7 +63,7 @@ Please refer to [Image Dimensions and Templates](../../before-you-begin/image-di
 {% endhint %}
 
 {% hint style="info" %}
-Local image uploading is available to moderators only.
+Local image upload is currently available to moderators only.
 {% endhint %}
 
 {% tabs %}
