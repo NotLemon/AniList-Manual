@@ -37,7 +37,7 @@ After making a submission, you will be able to view the status of your submissio
 
 If you have any queries in relation to submitting or updating content on the site, feel free to ask a [moderator ](moderator/moderator-list.md)on the [website ](http://anilist.co)or on [Discord](http://discord.me/anilist).
 
-Any changes to this guide or database will be announced on the website and also written in the manual [change log](changelog.md).
+Any changes to this guide or database will be announced on the website and also written in the manual [changelog](changelog.md).
 
 {% hint style="warning" %}
 Please Remember. This site is _**only**_ for works of Japanese, Korean, Chinese, and Taiwanese origins as specified in '[Country of Origin](submission-form/general/typings/untitled-8.md).'

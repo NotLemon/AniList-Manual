@@ -1,10 +1,10 @@
 ---
 description: >-
-  This change log is specific to the manual & database only, not other site
+  This changelog is specific to the manual & database only, not other site
   updates.
 ---
 
-# Change Log
+# Changelog
 
 ## 2.0.0 - 2018-11-17 - New System & Manual
 

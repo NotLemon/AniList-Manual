@@ -7,7 +7,6 @@
 * [Manhwa](manhwa.md)
 * [Doujinshi](doujinshi.md)
 * [Light Novels](light-novels.md)
-* [Web Novels]()
 * [One-Shots](one-shots.md)
 * [Web Platform List \(Not Exhaustive\)](web-platform-list-not-exhaustive.md)
 
