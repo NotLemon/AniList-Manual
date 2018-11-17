@@ -10,27 +10,27 @@ New entries can be submitted using these submission links:
 **Anime**: [https://anilist.co/edit/anime/new](https://anilist.co/edit/anime/new)  
 **Manga**: [https://anilist.co/edit/manga/new](https://anilist.co/edit/manga/new)  
   
-New **Characters** and **Staff** can only be created from the anime or manga's [Character ](submission-form/characters/)and [Staff ](submission-form/staff/)sub-pages.
+New **Characters** and **Staff** can only be created from the anime or manga form's [Character ](submission-form/characters/)and [Staff ](submission-form/staff/)sub-pages.
 
 #### Editing Entries
 
-Existing Anime and Manga entries can be edited using the edit button at the **bottom left** of their page.  
+Existing anime and manga entries can be edited using the edit button at the **bottom left** of their page.  
   
-Existing Staff and Character entries can be edited using the edit icon button at the **top right** of their page.
+Existing staff and character entries can be edited using the edit icon button at the **top right** of their page.
 
 #### Submission Approval
 
 When a user provides a submission it will undergo a review process where a moderator can approve or deny the additions and/or changes made - it is extremely helpful to provide as many [sources](before-you-begin/sourcing/) as possible to confirm the information you want to submit.
 
-{% hint style="info" %}
-Please be aware that AniList does not handle all entries the same way that other sites do.   
+{% hint style="warning" %}
+**Please be aware that AniList does not handle all entries the same way that other sites do.**   
   
 __Examples:  
-[Episode 0's and Prologues](before-you-begin/animated-media-information/episode-0s-and-prologues.md) are only placed in a standalone entry if they aired in a different format from the series.  
+[Episode 0's and Prologues](before-you-begin/animated-media-information/episode-0s-and-prologues.md) are only placed in a standalone entry if they aired in a different format from the same series.  
   
 [Recap ](before-you-begin/animated-media-information/recaps.md)episodes are not always included.  
   
-AniList has additional [relations](submission-form/relations.md). Labelling adaptations between all formats \(anime, manga and light novel\) is also treated the same.
+AniList has additional [relations](submission-form/relations.md). Labelling adaptations between all formats \(anime, manga, and light novel\) is also treated the same.
 {% endhint %}
 
 After making a submission, you will be able to view the status of your submissions, plus receive comments and questions from any moderators working on it if required.
