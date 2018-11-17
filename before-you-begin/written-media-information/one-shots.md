@@ -26,7 +26,7 @@ Example:
 
 > The now-defunct magazine, _Pure Yuri Anthology Hirari_, which solely published one-shots, released an anthology containing a selection of six of their one-shots:
 >
-> Adding [Isshun no Asterism](https://anilist.co/manga/104980) \(one-shot\) _\*\*\_to_ [_Shuuden ni wa Kaeshimasu_](https://anilist.co/manga/85662/Shuuden-ni-wa-Kaeshimasu/) _\(anthology\) with the '_**contains'** _relation automatically adds_ [_Shuuden ni wa Kaeshimasu_](https://anilist.co/manga/85662/Shuuden-ni-wa-Kaeshimasu/) _as the '_**compilation'**\_ to [Isshun no Asterism](https://anilist.co/manga/104980), and vice versa.
+> Adding [Isshun no Asterism](https://anilist.co/manga/104980) \(one-shot\) _to_ [_Shuuden ni wa Kaeshimasu_](https://anilist.co/manga/85662/Shuuden-ni-wa-Kaeshimasu/) _\(anthology\) with the '_**contains'** _relation automatically adds_ [_Shuuden ni wa Kaeshimasu_](https://anilist.co/manga/85662/Shuuden-ni-wa-Kaeshimasu/) _as the ''_**compilation'** to [Isshun no Asterism](https://anilist.co/manga/104980), and vice versa.
 
 In the case of retroactively creating standalone entries when the compiled volume already exists in the database, the standalone one-shot _**must**_ have the date when it was first printed, not the date the anthology or collection was released \(where applicable\).
 
