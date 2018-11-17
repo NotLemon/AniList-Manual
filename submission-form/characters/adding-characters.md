@@ -8,6 +8,10 @@ The characters page will let you manage the characters that feature in the work.
 
 The popup after pressing the ‘_Add Characters_’ button will let you search for the character you want to link, which you can then select and confirm. Back on the main page, you’ll now be able to add a role and voice actor.
 
+{% hint style="info" %}
+Multiple characters can be selected at once. You are also able to search for a new name and continue selecting characters. Everything will be carried over when '**Done**' is pressed.
+{% endhint %}
+
 ## Import
 
 {% hint style="info" %}

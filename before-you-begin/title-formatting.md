@@ -4,7 +4,7 @@ There should be _consistent_ formatting when converting from and/or using native
 
 ## Title Modification
 
-### **Unconfirmed titles for additional seasons**
+### **Unconfirmed Titles for Additional Seasons**
 
 For works getting a new series or season and the official title is as of yet unconfirmed, or never confirmed, please append the series number alone to the end of native and romaji titles, and 'Season X' to the end of the English title.
 
@@ -16,7 +16,7 @@ Example
 > Romaji: Shingeki no Kyojin 3  
 > English: Attack on Titan Season 3
 
-### **Split seasons**
+### **Split Seasons**
 
 If a 'season' of the show will air for multiple seasons, but has at least a one [airing season](../submission-form/general/release-data/season.md) gap in between. The subsequent entries should have 'Part 2' or equivalent, if no official title is given.
 
@@ -38,7 +38,7 @@ Example:
 
 ## Untitled or Provisionally Titled Media
 
-It is fine to add newly announced work with no title or a provisional title providing there is still an official source to verify it. This is mostly common in manga magazines where announcements can be made for an author's new work months in advance.  
+It is fine to add newly announced original work with no title or a provisional title providing there is still an official source to verify it. This is mostly common in manga magazines where announcements can be made for an author's new work months in advance.  
   
 If the media has no title, please use `(Title to be Announced)` in the romaji and native fields.  
   
