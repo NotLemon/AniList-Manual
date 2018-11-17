@@ -1,7 +1,7 @@
 ---
 description: >-
-  This change log is specific to the manual & database specification only, not
-  other site updates.
+  This change log is specific to the manual & database only, not other site
+  updates.
 ---
 
 # Change Log
