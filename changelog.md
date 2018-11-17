@@ -8,7 +8,7 @@ description: >-
 
 ## 2.0.0 - 2018-11-17 - New System & Manual
 
-This is the initial release of the second version of the Data Management tool and accompanying manual. The scope of the manual has expanded greatly from the original and is the point of reference for all users and moderators.
+This is the initial release of the second version of the data management system and accompanying manual. The new system is significantly easier to use than the first version. The scope of the manual has also expanded greatly from the original and is the point of reference for all users and moderators. 
 
 ### New
 
