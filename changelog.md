@@ -41,7 +41,7 @@ This is the initial release of the second version of the data management system 
 
 ### Changed
 
-* Creating Characters, Voice Actors, and Staff are now done through the sub-pages of the anime and manga forms rather than a standalone submission.
+* Creating Characters, Voice Actors, Staff, and adding Banners are now done through the sub-pages of the anime and manga forms rather than a standalone submission.
 * The **Novel** [source](submission-form/general/typings/untitled-7.md) has been renamed to **Light Novel**
 * **Parent** relation can no longer be set.
 * The **Adaptation** [relation](submission-form/relations.md) has been changed so that it now has the opposite relation of **Source**, to make identifying the the source material easier.
