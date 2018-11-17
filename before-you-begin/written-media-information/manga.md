@@ -60,11 +60,3 @@ Example 2:
 >
 > Also like the first example, the serialisation is a re-publication of the first chapters with minor adjustment.
 
-Example 3:
-
-> [Inaka ni Kaeru to Yakeni Jiben ni Natsuita Kasshoku Ponytail Shota ga Iru](https://anilist.co/manga/104991) was first released on Twitter \([here](https://twitter.com/ferea86/status/956556083484540928)\) before the publisher [GENEpixiv ](https://comic.pixiv.net/magazines/88)began serialisation.  
->   
-> Like the above examples, this also could have been eligible to be entered as doujinshi at first, if meeting the other requirements.
->
-> Also like the above examples, the serialisation is a re-publication of the first chapters with minor adjustment.
-
