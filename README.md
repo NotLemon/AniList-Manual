@@ -4,18 +4,19 @@
 
 Adding or modifying an entry on AniList is an easy task. The main focus is making sure that data is accurate and as complete as possible for that moment in time. All sections of the form are formatted in a similar fashion and have handy tool-tips to assist you.
 
-#### Editing Entries
-
-Existing anime & manga entries can be edited using the edit button at the bottom left of their page.  
-Existing staff & characters can be edited using the edit icon button at the top right of their page.
-
 #### Adding New Entries
 
 New entries can be submitted using these submission links:  
-Anime: [https://anilist.co/edit/anime/new](https://anilist.co/edit/anime/new)  
-Manga: [https://anilist.co/edit/manga/new](https://anilist.co/edit/manga/new)  
+**Anime**: [https://anilist.co/edit/anime/new](https://anilist.co/edit/anime/new)  
+**Manga**: [https://anilist.co/edit/manga/new](https://anilist.co/edit/manga/new)  
   
-New Characters & Staff can only be created from the anime & manga's [character ](submission-form/characters/)& [staff ](submission-form/staff/)sub-pages.
+New **Characters** and **Staff** can only be created from the anime or manga's [Character ](submission-form/characters/)and [Staff ](submission-form/staff/)sub-pages.
+
+#### Editing Entries
+
+Existing Anime and Manga entries can be edited using the edit button at the **bottom left** of their page.  
+  
+Existing Staff and Character entries can be edited using the edit icon button at the **top right** of their page.
 
 #### Submission Approval
 
@@ -32,7 +33,7 @@ __Examples:
 AniList has additional [relations](submission-form/relations.md). Labelling adaptations between all formats \(anime, manga and light novel\) is also treated the same.
 {% endhint %}
 
-After making a submission, you will be able still be able to edit it, as well as view the status of your submissions, plus receive comments from any moderators working on it.
+After making a submission, you will be able to view the status of your submissions, plus receive comments and questions from any moderators working on it if required.
 
 If you have any queries in relation to submitting or updating content on the site, feel free to ask a [moderator ](moderator/moderator-list.md)on the [website ](http://anilist.co)or on [Discord](http://discord.me/anilist).
 
