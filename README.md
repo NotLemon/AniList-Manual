@@ -25,7 +25,7 @@ When a user provides a submission it will undergo a review process where a moder
 {% hint style="warning" %}
 **Please be aware that AniList does not handle all entries the same way that other sites do.**
 
-\_\_Examples:  
+Examples:  
 [Episode 0s and Prologues](before-you-begin/animated-media-information/episode-0s-and-prologues.md) are only placed in a standalone entry if they aired in a different format from the same series.
 
 [Recap ](before-you-begin/animated-media-information/recaps.md)episodes are not always included.
