@@ -35,6 +35,8 @@ AniList has additional [relations](submission-form/relations.md). Labeling adapt
 
 After making a submission, you will be able to view the status of your submissions, plus receive comments and questions from any moderators working on it if required.
 
+![Submission panel on a users&apos; profile page.](.gitbook/assets/1rxp2wl.png)
+
 If you have any queries in relation to submitting or updating content on the site, feel free to ask a [moderator ](moderator/moderator-list.md)on the [website ](http://anilist.co)or on [Discord](http://discord.me/anilist).
 
 Any changes to this guide or database will be announced on the website and also written in the manual [changelog](changelog.md).
