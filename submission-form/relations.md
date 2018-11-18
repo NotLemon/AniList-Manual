@@ -19,6 +19,10 @@ Example 1 \(Adaptations\):
 >   
 > Adding the [novel](https://anilist.co/manga/86238/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) as the '**source**' to both the [manga](https://anilist.co/manga/85702/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) and [anime](https://anilist.co/anime/21202/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) automatically adds the [manga](https://anilist.co/manga/85702/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) and [anime](https://anilist.co/anime/21202/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) as the '**adaptation**' to the [novel](https://anilist.co/manga/86238/Kono-Subarashii-Sekai-ni-Shukufuku-wo/), and vice versa.
 
+{% hint style="warning" %}
+If a work that isn't eligible to be on the website, such as a full novel, receives multiple adaptations \(such as anime, manga etc.\). They would be linked through the **alternative** relation.
+{% endhint %}
+
 Example 2 \(Sequels\):
 
 > The anime [City Hunter](https://anilist.co/anime/1470/City-Hunter/) had a second season released:  
