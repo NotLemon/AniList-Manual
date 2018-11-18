@@ -6,11 +6,11 @@ The final episode count of the anime. This should be kept blank until an officia
 
 ## Episode Duration
 
-Please use the average length \(_**mode**_\) of episodes, rounded to the nearest minute. The 23-25 mark is standard for most TV anime. This can be left blank until a full length episode has been released.
+Please use the average length \(_**mode**_\) of episodes, rounded to the nearest minute. The 23-25 mark is standard for most TV anime. This can be left blank until a full-length episode has been released.
 
 ![The lengths for the &apos;Ao Buta&apos; anime](../../../.gitbook/assets/length_anime.png)
 
 {% hint style="info" %}
-The mean duration can be used for entries with wildly varied lengths, such as [Genius Party](https://anilist.co/anime/3508/GeniusParty).
+The mean duration can be used for entries with wildly varying lengths, such as [Genius Party](https://anilist.co/anime/3508/GeniusParty).
 {% endhint %}
 

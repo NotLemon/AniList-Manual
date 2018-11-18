@@ -2,7 +2,7 @@
 
 ## Database Criteria
 
-Music video's are permitted as long as there is _**significant**_ creative control from a Japanese creator. If it is unclear, ask a moderator for advice.
+Music videos are permitted as long as there is _**significant**_ creative control from a Japanese creator. If it is unclear, ask a moderator for advice.
 
 ## Examples
 
@@ -12,7 +12,7 @@ Example 1:
 
 Example 2:
 
-> [Shelter](https://anilist.co/anime/97731/Shelter/) is a Canadian produced song However, the music video was a collaborative work with the animation studio [A-1 Pictures](https://anilist.co/studio/561/A1-Pictures). It was directed by [Toshifumi Akai](https://anilist.co/staff/110949). as well as featuring voice acting by [Sachika Misawa](https://anilist.co/staff/102337/Sachika-Misawa).
+> [Shelter](https://anilist.co/anime/97731/Shelter/) is a Canadian produced song However, the music video was a collaborative work with the animation studio [A-1 Pictures](https://anilist.co/studio/561/A1-Pictures). It was directed by [Toshifumi Akai](https://anilist.co/staff/110949) as well as featuring voice acting by [Sachika Misawa](https://anilist.co/staff/102337/Sachika-Misawa).
 
 Example 3:
 

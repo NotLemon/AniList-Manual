@@ -1,6 +1,6 @@
-# Romanisation
+# Romanization
 
-Romanisation of names and titles is done in a variation of [Traditional Hepburn](https://en.wikipedia.org/wiki/Hepburn_romanization#Variants).
+The romanization of names and titles is done in a variation of [Traditional Hepburn](https://en.wikipedia.org/wiki/Hepburn_romanization#Variants).
 
 * Macrons are _**not**_ used.  
 * Loanwords are written properly in their respective languages  \(Example: _Maid_ instead of _Meido_\).  

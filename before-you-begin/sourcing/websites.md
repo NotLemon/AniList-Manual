@@ -18,7 +18,7 @@ Please remember that magazine issue date is not always the month the magazine wa
 {% endhint %}
 
 * [AniDB](https://anidb.net) is very good at tracking staff roles, but names should always be double-checked for accuracy.  \(Example: [Ginga Eiyuu Densetsu](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=584)\)  
-* [Wikipedia Japan](https://ja.wikipedia.org/) can be good for information on characters, as well as specific magazine issues for print serialisation manga. \(Example: [Hibiki: Shousetsuka ni Naru Houhou](https://ja.wikipedia.org/wiki/響_〜小説家になる方法〜)\) 
+* [Wikipedia Japan](https://ja.wikipedia.org/) can be good for information on characters, as well as specific magazine issues for print serialization manga. \(Example: [Hibiki: Shousetsuka ni Naru Houhou](https://ja.wikipedia.org/wiki/響_〜小説家になる方法〜)\) 
 * [Pixiv Encyclopedia](https://dic.pixiv.net/) can often be useful for not only character names, but all manner of information, similar to Wikipedia, a lot of information gets collated into series pages. \(Example: [3gatsu no Lion](https://github.com/AniList/Submission-Manual/tree/a75a145be94b07fe00ba94c797a3d65e0ee28116/a/3月のライオン/README.md)\) 
 * [MyAnimeList](https://myanimelist.net/), [MangaUpdates](https://www.mangaupdates.com/), and [Kitsu](https://kitsu.io/explore/anime) are often sourced - whilst this is OK, these alone aren’t always accurate enough, as they can often contain errors. However, please link the first two if they exist, especially as [AniList](http://anilist.co) _**requires**_ the works' [MAL ID](../../submission-form/general/misc/myanimelist-id.md) for mapping series between the two websites for list imports.  
 * Anime and manga aggregators \(streaming/scanlation hosting sites\) should almost never be used as a single or primary source. They usually lack or have incorrect data.
@@ -27,14 +27,14 @@ Please remember that magazine issue date is not always the month the magazine wa
 
 * [Moon Phase](http://m-p.sakura.ne.jp/) for airing times, TV stations, etc.
 * [Syoboi Calendar](http://cal.syoboi.jp/) is also handy for airing times and checking delays.
-* [Yaraon!](http://yaraon-blog.com/) \(**nsfw**\) is a pretty nifty blog for announcements.
+* [Yaraon!](http://yaraon-blog.com/) \(**NSFW**\) is a pretty nifty blog for announcements.
 * [Anime@wiki](https://www7.atwiki.jp/anime_wiki/) for staff positions and episodes.
 * [Anime Staff Database](http://seesaawiki.jp/w/radioi_34/) for animation staff positions and episodes.
 * [FanSubDB](http://fansubdb.com/wiki/) is OK for airing times, but get additional confirmation.
 
 ### Manga Specific
 
-* [Natalie 'New Serialisation' tag](https://natalie.mu/comic/tag/43) - Articles about new serials.
-* [Natalie 'Completed Serialisation' tag](https://natalie.mu/comic/tag/42) - Articles about ending serials.
+* [Natalie 'New Serialization' tag](https://natalie.mu/comic/tag/43) - Articles about new serials.
+* [Natalie 'Completed Serialization' tag](https://natalie.mu/comic/tag/42) - Articles about ending serials.
 * [Natalie 'Vol. 1 Release' tag](https://natalie.mu/comic/tag/59) - Articles about first volume releases.
 

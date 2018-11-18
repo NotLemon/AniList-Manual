@@ -1,10 +1,10 @@
-# Mod Tools
+# Moderator Tools
 
 {% hint style="info" %}
 This feature is not available to standard users.
 {% endhint %}
 
-This section is the hub for entry creation, submission and tag requests, reports and moderator activity filters.
+This section is the hub for entry creation, submission, and tag requests, reports and moderator activity filters.
 
 ## Submissions
 

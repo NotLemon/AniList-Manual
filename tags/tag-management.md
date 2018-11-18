@@ -22,7 +22,7 @@ The power of each users’ vote is limited to restrict abuse. If you feel that t
 
 ## Tag Requests
 
-For the most part, all tags that users’ request are discussed between a few moderators and sometimes users themselves before a decision on whether to include them or not is made. Ideally, tags should not be ones that are often considered subjective, such as 'moe', and not as descriptive as eye colour. Browsing the list of tags is the best measure of seeing what type of content could be approved.
+For the most part, all tags that users’ request are discussed between a few moderators and sometimes users themselves before a decision on whether to include them or not is made. Ideally, tags should not be ones that are often considered subjective, such as 'moe', and not as descriptive as eye color. Browsing the list of tags is the best measure of seeing what type of content could be approved.
 
 ## Tag List
 

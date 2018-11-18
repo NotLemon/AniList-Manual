@@ -18,7 +18,7 @@ Example
 
 ### **Split Seasons**
 
-If a 'season' of the show will air for multiple seasons, but has at least a one [airing season](../submission-form/general/release-data/season.md) gap in between. The subsequent entries should have 'Part 2' or equivalent, if no official title is given.
+If a 'season' of the show will air for multiple seasons, but has at least a one [airing season](../submission-form/general/release-data/season.md) gap in between. The subsequent entries should have 'Part 2' or equivalent if no official title is given.
 
 Example
 
@@ -30,7 +30,7 @@ Example
 
 ### **Appendages**
 
-For supplemental works to a main series, such as [OVA's and Specials](animated-media-information/ovas-and-onas.md), the main series title should be used and the format appended to the end.
+For supplemental works to a main series, such as [OVAs and Specials](animated-media-information/ovas-and-onas.md), the main series title should be used and the format appended to the end.
 
 Example:
 
@@ -38,18 +38,18 @@ Example:
 
 ## Untitled or Provisionally Titled Media
 
-It is fine to add newly announced original work with no title or a provisional title providing there is still an official source to verify it. This is mostly common in manga magazines where announcements can be made for an author's new work months in advance.  
+It is fine to add newly announced original work with no title or a provisional title providing there is still an official source to verify it. This is most common in manga magazines where announcements can be made for an author's new work months in advance.  
   
 If the media has no title, please use `(Title to be Announced)` in the romaji and native fields.  
   
 If the media has a provisional title, please append `(Provisional Title)` to the end of the romaji title, and `（仮）`to the end of the native title.  
   
-It is highly recommended to write a temporary description containing the date of announcement, a link to a reputable article or website, and the author .  
+It is highly recommended to write a temporary description containing the date of the announcement, a link to a reputable article or website, and the author.  
   
 **Example:**
 
 ```text
-<i>Serialisation of Shouto Aya's new work - announced 2018/10/25 - presently untitled.</i>
+<i>serialization of Shouto Aya's new work - announced 2018/10/25 - presently untitled.</i>
 <br>
 <a href="http://www.ganganonline.com/contents/big32018/">Announcement Link</a>
 ```
@@ -67,9 +67,9 @@ Examples of how to deal with non-alphanumeric characters in titles can be seen i
 * Titles which feature subtitles separated full-width tildes \(～\) or other similar separators should be separated with a colon.  
 * Japanese quotes \(「」\) should be converted to English double-quotes \(" "\).  
 * Symbols like stars \(☆\) and musical notes \(♪\) should remain.  
-* Titles using full-width tildes to elongate words should be [romanised](romanisation.md) without. \(み〜つけた &gt; Mitsuketa\).  
-* Hashtags in titles should remain without spaces when [romanised](romanisation.md), however a version with spaces should ideally be placed in the synonyms.  
-* Special things such as kaomoji \(顔文字\) should not be [romanised](romanisation.md).
+* Titles using full-width tildes to elongate words should be [romanized](romanization.md) without. \(み〜つけた &gt; Mitsuketa\).  
+* Hashtags in titles should remain without spaces when [romanized](romanization.md), however, a version with spaces should ideally be placed in the synonyms.  
+* Special things such as kaomoji \(顔文字\) should not be [romanized](romanization.md).
 
 ## Examples
 

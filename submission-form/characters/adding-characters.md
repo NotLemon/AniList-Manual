@@ -22,5 +22,5 @@ This will let you import every character and voice actor from another entry, whi
 
 ### Character Role
 
-Each character has the option to be set as a _main_, _supporting_, or _background_ character. For many of these, it will be up to your own judgement.
+Each character has the option to be set as a _main_, _supporting_, or _background_ character. For many of these, it will be up to your own judgment.
 

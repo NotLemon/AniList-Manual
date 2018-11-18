@@ -4,11 +4,11 @@
 
 ## Given Name
 
-Their given name\(s\) in correct [romanisation](../../before-you-begin/romanisation.md).
+Their given name\(s\) in correct [romanization](../../before-you-begin/romanization.md).
 
 ## Surname
 
-Their surname or alias in correct [romanisation](../../before-you-begin/romanisation.md).
+Their surname or alias in correct [romanization](../../before-you-begin/romanization.md).
 
 ## Native Name
 
@@ -45,7 +45,7 @@ Example: [Tatari Takayama](https://anilist.co/staff/128291/Tatari-Takayama)
 
 This is the cover image for the voice actor.
 
-A clean head shot or head and shoulders portrait photo should be used where possible.
+A clean headshot or head and shoulders portrait photo should be used where possible.
 
 Format should either .jpg \(.jpeg\) or .png.
 

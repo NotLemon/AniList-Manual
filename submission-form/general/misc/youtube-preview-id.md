@@ -8,7 +8,7 @@ If the video has been region-locked, then [YouTube](https://www.youtube.com/) re
 
 The ID is located at the end of the [YouTube](https://www.youtube.com/) video URL.
 
-For example the ID for [https://www.YouTube.com/watch?v=fq3abPnEEGE](https://www.youtube.com/watch?v=fq3abPnEEGE) is `fq3abPnEEGE`  
+For example, the ID for [https://www.YouTube.com/watch?v=fq3abPnEEGE](https://www.youtube.com/watch?v=fq3abPnEEGE) is `fq3abPnEEGE`  
 To add a [Dailymotion](https://www.dailymotion.com/gb) video, prefix the [Dailymotion](https://www.dailymotion.com/gb) video ID with `dm--`
 
 ![The misc section for the &apos;Ao Buta&apos; anime](../../../.gitbook/assets/misc.png)

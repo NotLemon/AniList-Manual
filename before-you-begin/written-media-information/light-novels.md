@@ -31,7 +31,7 @@ Tokuten \(bonus booklets and such\) are not added to the database.
 {% endhint %}
 
 {% hint style="warning" %}
-If a self-published web novel from a site such as [Syosetu ](http://syosetu.com)is later professionally published as a [light novel](light-novels.md), the light novel entry would be eligible for submission under the date that the light novel serialisation began.
+If a self-published web novel from a site such as [Syosetu ](http://syosetu.com)is later professionally published as a [light novel](light-novels.md), the light novel entry would be eligible for submission under the date that the light novel serialization began.
 
 The original web novel publication should _**not**_ be added.  
 This means works from Japanese self-publishing websites such as [Syosetu ](http://syosetu.com)are completely denied.
@@ -45,13 +45,13 @@ Chinese and Korean web novels are _**not**_ accepted on this website.
 
 Example 1:
 
-> The original self-published [Syosetu ](http://ncode.syosetu.com/s2691b/)release of [KonoSuba ](https://anilist.co/manga/86238/Kono-Subarashii-Sekai-ni-Shukufuku-wo/)is _**not**_ permitted, however the [Kadokawa ](https://kadokawa.co.jp)published [light novel serialisation](https://sneakerbunko.jp/series/konosuba/) under their [Sneaker Bunko](https://sneakerbunko.jp/) imprint _**is**_ allowed.
+> The original self-published [Syosetu ](http://ncode.syosetu.com/s2691b/)release of [KonoSuba ](https://anilist.co/manga/86238/Kono-Subarashii-Sekai-ni-Shukufuku-wo/)is _**not**_ permitted, however, the [Kadokawa ](https://kadokawa.co.jp)published [light novel serialization](https://sneakerbunko.jp/series/konosuba/) under their [Sneaker Bunko](https://sneakerbunko.jp/) imprint _**is**_ allowed.
 
 Example 2:
 
-> The [Monogatari Series](https://anilist.co/manga/44893/) toes the line between appearing as a hard or light novel. It is [published](http://kodansha-box.jp/topics/nishio/index.html) in [Kodansha BOX](http://kodansha-box.jp/), which is a hybrid label, but the work is mixed media \(contains illustrations\) and is mostly labelled as a light novel by the general community in both Japan and overseas \(readers, large retailers etc\).
+> The [Monogatari Series](https://anilist.co/manga/44893/) toes the line between appearing as a hard or light novel. It is [published](http://kodansha-box.jp/topics/nishio/index.html) in [Kodansha BOX](http://kodansha-box.jp/), which is a hybrid label, but the work is mixed media \(contains illustrations\) and is mostly labeled as a light novel by the general community in both Japan and overseas \(readers, large retailers etc\).
 
 Example 3:
 
-> [Spice and Wolf](https://anilist.co/manga/39115) debuted as a prize-winning work in the 12th Dengeki Novel Awards. This awarded it serialisation in [Dengeki Bunko](https://dengekibunko.jp/product/spice-and-wolf/), a light novel imprint.
+> [Spice and Wolf](https://anilist.co/manga/39115) debuted as a prize-winning work in the 12th Dengeki Novel Awards. This awarded it serialization in [Dengeki Bunko](https://dengekibunko.jp/product/spice-and-wolf/), a light novel imprint.
 

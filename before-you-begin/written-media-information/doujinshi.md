@@ -4,8 +4,8 @@
 
 Doujinshi can be added to the website if it meets all the following criteria:
 
-1. The doujinshi is by an _**already**_ serialised mangaka.  
-2. It meets the Japanese '[Country Of Origin](../../submission-form/general/typings/untitled-8.md)'.  
+1. The doujinshi is by an _**already**_ serialized mangaka.  
+2. It meets the Japanese '[Country Of Origin](../../submission-form/general/typings/country-of-origin.md)'.  
 3. The doujinshi is not based on existing published material \(anime, manga, manhwa etc.\) - it must be an _**original**_ work.
 
 Doujinshi is not a format on AniList, instead, you have to the toggle the [licensed ](../../submission-form/general/misc/licensed.md)option.
@@ -18,6 +18,6 @@ Example:
 {% endhint %}
 
 {% hint style="info" %}
-Some doujinshi that enter serialisation may be converted to the manga format provided the new serialisation is not an entirely new work. Please refer to [manga](manga.md#doujinshi-into-manga) for more information.
+Some doujinshi that enter serialization may be converted to the manga format provided the new serialization is not an entirely new work. Please refer to [manga](manga.md#doujinshi-into-manga) for more information.
 {% endhint %}
 

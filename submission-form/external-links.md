@@ -1,6 +1,6 @@
 # External Links
 
-Fill in any related links to official sites, official social media and _**legal**_ reading or streaming sites. The buttons shown on the entry page are formatted depending on the link.
+Fill in any related links to official sites, official social media, and _**legal**_ reading or streaming sites. The buttons shown on the entry page are formatted depending on the link.
 
 ![External links page for the &apos;Ao Buta&apos; anime](../.gitbook/assets/external_links_anime.png)
 

@@ -26,9 +26,9 @@ Example magazines include things such as:
 {% endtab %}
 {% endtabs %}
 
-There are many sites that work with multiple publishers to release serialisations digitally, such as [PixivComic](https://comic.pixiv.net/), [ComicWalker](https://comic-walker.com/), and [Nico Nico Seiga](https://seiga.nicovideo.jp/).
+There are many sites that work with multiple publishers to release serializations digitally, such as [PixivComic](https://comic.pixiv.net/), [ComicWalker](https://comic-walker.com/), and [Nico Nico Seiga](https://seiga.nicovideo.jp/).
 
-Works published on sites like [Twitter](http://twitter.com) or [Pixiv](http://pixiv.net)’s non-comic section are usually not accepted _**unless**_ they are titled works uploaded by an author already in serialisation, in which they’ll be classed as [doujinshi](doujinshi.md).
+Works published on sites like [Twitter](http://twitter.com) or [Pixiv](http://pixiv.net)’s non-comic section are usually not accepted _**unless**_ they are titled works uploaded by an author already in serialization, in which they’ll be classed as [doujinshi](doujinshi.md).
 
 Any accepted works from [Comico](https://www.comico.jp) or similar webtoon portals should be from the official section only, and not the self-publishing challenge section.
 
@@ -37,7 +37,7 @@ Any accepted works from [Comico](https://www.comico.jp) or similar webtoon porta
 If series originally self-published online through platforms like [Twitter](http://twitter.com) or [Pixiv](http://pixiv.net) \(considered [doujinshi](doujinshi.md)\) are later picked up by a professional publisher and released without significant change, any existing entry in AniList under the doujinshi format would be [updated](../../submission-form/general/misc/licensed.md) to manga by checking the [Licensed ](../../submission-form/general/misc/licensed.md)option. \(retaining the original self-published start date\).
 
 {% hint style="warning" %}
-If the serialisation is an _**entirely**_ new work, and not a re-publication of the original chapters, a new entry should be made using the start date as the date of serialisation. The original work could still be eligible to enter the database as doujinshi.
+If the serialization is an _**entirely**_ new work, and not a re-publication of the original chapters, a new entry should be made using the start date as the date of serialization. The original work could still be eligible to enter the database as doujinshi.
 {% endhint %}
 
 ### Examples
@@ -50,9 +50,9 @@ Example 1:
 
 Example 2:
 
-> [Sanpakugan-chan wa Tsutaetai.](https://anilist.co/manga/104776/Sanpakuganchan-wa-Tsutaetai/) was first released on Twitter \([here](https://twitter.com/syunsuke1009/status/1004317076788408320)\) before the publisher [GANGANpixiv](https://gangan.pr-pixiv.net/) began serialisation.  
+> [Sanpakugan-chan wa Tsutaetai.](https://anilist.co/manga/104776/Sanpakuganchan-wa-Tsutaetai/) was first released on Twitter \([here](https://twitter.com/syunsuke1009/status/1004317076788408320)\) before the publisher [GANGANpixiv](https://gangan.pr-pixiv.net/) began serialization.  
 >   
 > Like the first example, this also could have been eligible to be entered as doujinshi at first, if meeting the other requirements.
 >
-> Also like the first example, the serialisation is a re-publication of the first chapters with minor adjustment.
+> Also like the first example, the serialization is a re-publication of the first chapters with minor adjustment.
 

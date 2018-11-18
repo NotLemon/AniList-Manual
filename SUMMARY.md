@@ -29,7 +29,7 @@
   * [Tools](before-you-begin/sourcing/tools/README.md)
     * [Japanese Dictionary Extensions](before-you-begin/sourcing/tools/rikaichan-and-rikaikun.md)
     * [Bookwalker Cover Grabber](before-you-begin/sourcing/tools/bookwalker-cover-grabber.md)
-* [Romanisation](before-you-begin/romanisation.md)
+* [romanization](before-you-begin/romanization.md)
 * [Title Formatting](before-you-begin/title-formatting.md)
 * [Image Dimensions, and Templates](before-you-begin/image-dimensions-and-template.md)
 
@@ -43,9 +43,9 @@
     * [Season](submission-form/general/release-data/season.md)
     * [Start and End Date](submission-form/general/release-data/start-date.md)
   * [Typings](submission-form/general/typings/README.md)
-    * [Format](submission-form/general/typings/untitled-6.md)
-    * [Source](submission-form/general/typings/untitled-7.md)
-    * [Country Of Origin](submission-form/general/typings/untitled-8.md)
+    * [Format](submission-form/general/typings/format.md)
+    * [Source](submission-form/general/typings/source.md)
+    * [Country Of Origin](submission-form/general/typings/country-of-origin.md)
   * [Lengths](submission-form/general/lengths/README.md)
     * [Anime](submission-form/general/lengths/anime.md)
     * [Manga](submission-form/general/lengths/manga.md)
@@ -85,6 +85,6 @@
 
 ## Moderator
 
-* [Mod Tools](moderator/mod-tools.md)
+* [Moderator Tools](moderator/moderator-tools.md)
 * [Moderator List](moderator/moderator-list.md)
 

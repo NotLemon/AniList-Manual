@@ -17,10 +17,10 @@ The start date for the schedule should be the date that the anime is first broad
 Airing times should be set to _**Japan Standard Time \(JST\)**_. Some Japanese TV guides list airing times beyond 24hr time. Airing dates and time should be inputted in standard form \(eg. Guide Listing: Monday 22/6 25:30 - Standard Form: Tuesday 23/06 01:30\).
 {% endhint %}
 
-Pressing generate air dates after filling this table in will fill in dates in the calendar below for the period of time and number of episodes specified.
+After filling in this table and pressing "Generate", the calendar will fill with dates for the period of time and number of episodes specified.
 
 In the event of episodes being delayed, you can manually alter the calendar to add or remove a date, this will automatically adjust the episode count and add an extra period\(s\) to the end of the schedule to compensate for the delay.  
-Pressing generate will _**overwrite**_ any alterations made in this way so avoid doing it after the initial generation.
+Pressing generate will _**overwrite**_ any alterations made in this way, so avoid doing it after the initial generation.
 
 {% hint style="warning" %}
 In the event of _**multiple**_ episodes airing on the same date, manually add however many episodes were aired to the days before it actually aired.

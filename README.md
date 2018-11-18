@@ -26,11 +26,11 @@ When a user provides a submission it will undergo a review process where a moder
 **Please be aware that AniList does not handle all entries the same way that other sites do.**   
   
 __Examples:  
-[Episode 0's and Prologues](before-you-begin/animated-media-information/episode-0s-and-prologues.md) are only placed in a standalone entry if they aired in a different format from the same series.  
+[Episode 0s and Prologues](before-you-begin/animated-media-information/episode-0s-and-prologues.md) are only placed in a standalone entry if they aired in a different format from the same series.  
   
 [Recap ](before-you-begin/animated-media-information/recaps.md)episodes are not always included.  
   
-AniList has additional [relations](submission-form/relations.md). Labelling adaptations between all formats \(anime, manga, and light novel\) is also treated the same.
+AniList has additional [relations](submission-form/relations.md). Labeling adaptations between all formats \(anime, manga, and light novel\) is also treated the same.
 {% endhint %}
 
 After making a submission, you will be able to view the status of your submissions, plus receive comments and questions from any moderators working on it if required.
@@ -42,11 +42,11 @@ Any changes to this guide or database will be announced on the website and also 
 {% hint style="info" %}
 It is _**highly recommended**_ that you read the both the [Checklist](before-you-begin/before-you-begin.md) and [Animated ](before-you-begin/animated-media-information/)and [Written ](before-you-begin/written-media-information/)Media Specification sections prior to any submissions, or at least relevant sections within it.
 
-The latter sections states what _**is**_ and _**is not**_ accepted onto the database and provides many helpful tips within.
+The latter sections state what _**is**_ and _**is not**_ accepted onto the database and provides many helpful tips within.
 {% endhint %}
 
 {% hint style="warning" %}
-Please Remember. This site is _**only**_ for works of Japanese, Korean, Chinese, and Taiwanese origins as specified in '[Country of Origin](submission-form/general/typings/untitled-8.md).'
+Please Remember. This site is _**only**_ for works of Japanese, Korean, Chinese, and Taiwanese origins as specified in '[Country of Origin](submission-form/general/typings/country-of-origin.md).'
 {% endhint %}
 
 

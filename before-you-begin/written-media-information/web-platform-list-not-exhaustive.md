@@ -7,7 +7,7 @@ If one of the below accepted links exist, please add them to the [External Links
 {% endhint %}
 
 {% hint style="warning" %}
-As always, works still have to satisfy the Japanese, Chinese, Korean, or Taiwanese ‘[Country Of Origin](../../submission-form/general/typings/untitled-8.md)’ type.
+As always, works still have to satisfy the Japanese, Chinese, Korean, or Taiwanese ‘[Country Of Origin](../../submission-form/general/typings/country-of-origin.md)’ type.
 {% endhint %}
 
 If the work originally published on ‘_Not Accepted_‘ websites is later picked up by a professional publisher of _**the same language**_, that later publication would be what can be added to the database.

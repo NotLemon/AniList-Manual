@@ -7,11 +7,11 @@ One-shots can be added to the site provided they been published in a reputable, 
 They are single, standalone works with a self-contained story. This means that any series with more than one chapter is _**not**_ a one-shot.
 
 {% hint style="info" %}
-If a published one-shot has a serialisation announced, a new entry will be created for the new serialisation under the **manga** format. The two works will be linked through the **alternative** [relation](../../submission-form/relations.md).
+If a published one-shot has a serialization announced, a new entry will be created for the new serialization under the **manga** format. The two works will be linked through the **alternative** [relation](../../submission-form/relations.md).
 {% endhint %}
 
 {% hint style="warning" %}
-Self-published works are not classed as one-shots. However, if the author is already serialised, self-published works could instead possibly be classed as [doujinshi](doujinshi.md).
+Self-published works are not classed as one-shots. However, if the author is already serialized, self-published works could instead possibly be classed as [doujinshi](doujinshi.md).
 {% endhint %}
 
 ## Compilations and Anthologies
@@ -27,6 +27,6 @@ Example:
 In the case of retroactively creating standalone entries when the compiled volume already exists in the database, the standalone one-shot _**must**_ have the date when it was first printed, not the date the anthology or collection was released \(where applicable\).
 
 {% hint style="warning" %}
-Compilations one-shots should have the ‘_Manga_’ [format](../../submission-form/general/typings/untitled-6.md).
+Compilations one-shots should have the ‘_Manga_’ [format](../../submission-form/general/typings/format.md).
 {% endhint %}
 
