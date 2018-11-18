@@ -66,6 +66,8 @@ Please refer to [Image Dimensions and Templates](../../before-you-begin/image-di
 Local image upload is currently available to moderators only.
 {% endhint %}
 
+## Image Examples
+
 {% tabs %}
 {% tab title="Good Images" %}
 |  |  |
