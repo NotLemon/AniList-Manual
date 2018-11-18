@@ -30,7 +30,7 @@ English titles created by scanlators or fansubbers are _**not**_ accepted.
 
 ## Native
 
-The official native title.  
-  
+The official native title.
+
 In almost all cases this will be written in Japanese, Chinese, or Korean. However if the work primarily refers to itself in any other language, then that title should be used rather than the Japanese, Chinese, or Korean subtitle.
 

@@ -38,7 +38,7 @@ When updating all other relations \(_spin off, side story, character, summary,_ 
 Example:
 
 > The light novel [Kono Subarashii Sekai ni Shukufuku wo!](https://anilist.co/manga/86238/) had the manga spin-off [Kono Subarashii Sekai ni Bakuen wo!](https://anilist.co/manga/100147/Kono-Subarashii-Sekai-ni-Bakuen-wo/) announced:
-
+>
 > To link the entries, you must be in the light novel entry and set [Kono Subarashii Sekai ni Bakuen wo!](https://anilist.co/manga/100147/Kono-Subarashii-Sekai-ni-Bakuen-wo/) as a '**spin-off'**. The '**parent'** relation will then be set in the opposite direction back to the light novel.
 
 {% hint style="warning" %}

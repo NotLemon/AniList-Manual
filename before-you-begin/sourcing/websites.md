@@ -6,7 +6,7 @@ There are endless sources for all types of media, some can be more useful or inf
 If you find an article or source in a language you can’t read, linking it for moderators to look at is still extremely helpful.
 {% endhint %}
 
-### General Sites
+## General Sites
 
 * In most cases, _**official**_ sites are the best possible source and contain the most information. Providing these as often as possible is ideal. Especially since these sites should be linked in the External URL section of the form.  
 * Sources in the native language are extremely helpful - even if you’re unable to read it. Searching the native title can bring up relevant news articles or, for a lot of digitally published works, sites where they are legally hosted \(Example: [PixivComic](https://comic.pixiv.net/), [Nico Nico Seiga](https://seiga.nicovideo.jp/), and [ComicWalker](https://comic-walker.com/)\).  
@@ -23,7 +23,7 @@ Please remember that magazine issue date is not always the month the magazine wa
 * [MyAnimeList](https://myanimelist.net/), [MangaUpdates](https://www.mangaupdates.com/), and [Kitsu](https://kitsu.io/explore/anime) are often sourced - whilst this is OK, these alone aren’t always accurate enough, as they can often contain errors. However, please link the first two if they exist, especially as [AniList](http://anilist.co) _**requires**_ the works' [MAL ID](../../submission-form/general/misc/myanimelist-id.md) for mapping series between the two websites for list imports.  
 * Anime and manga aggregators \(streaming/scanlation hosting sites\) should almost never be used as a single or primary source. They usually lack or have incorrect data.
 
-### Anime Specific
+## Anime Specific
 
 * [Moon Phase](http://m-p.sakura.ne.jp/) for airing times, TV stations, etc.
 * [Syoboi Calendar](http://cal.syoboi.jp/) is also handy for airing times and checking delays.
@@ -32,7 +32,7 @@ Please remember that magazine issue date is not always the month the magazine wa
 * [Anime Staff Database](http://seesaawiki.jp/w/radioi_34/) for animation staff positions and episodes.
 * [FanSubDB](http://fansubdb.com/wiki/) is OK for airing times, but get additional confirmation.
 
-### Manga Specific
+## Manga Specific
 
 * [Natalie 'New Serialization' tag](https://natalie.mu/comic/tag/43) - Articles about new serials.
 * [Natalie 'Completed Serialization' tag](https://natalie.mu/comic/tag/42) - Articles about ending serials.

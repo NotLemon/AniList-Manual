@@ -2,8 +2,8 @@
 
 ## Database Criteria
 
-One-shots can be added to the site provided they been published in a reputable, professional, Japanese magazine.   
-  
+One-shots can be added to the site provided they been published in a reputable, professional, Japanese magazine.
+
 They are single, standalone works with a self-contained story. This means that any series with more than one chapter is _**not**_ a one-shot.
 
 {% hint style="info" %}

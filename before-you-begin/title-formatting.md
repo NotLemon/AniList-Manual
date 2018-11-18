@@ -38,14 +38,14 @@ Example:
 
 ## Untitled or Provisionally Titled Media
 
-It is fine to add newly announced original work with no title or a provisional title providing there is still an official source to verify it. This is most common in manga magazines where announcements can be made for an author's new work months in advance.  
-  
-If the media has no title, please use `(Title to be Announced)` in the romaji and native fields.  
-  
-If the media has a provisional title, please append `(Provisional Title)` to the end of the romaji title, and `（仮）`to the end of the native title.  
-  
-It is highly recommended to write a temporary description containing the date of the announcement, a link to a reputable article or website, and the author.  
-  
+It is fine to add newly announced original work with no title or a provisional title providing there is still an official source to verify it. This is most common in manga magazines where announcements can be made for an author's new work months in advance.
+
+If the media has no title, please use `(Title to be Announced)` in the romaji and native fields.
+
+If the media has a provisional title, please append `(Provisional Title)` to the end of the romaji title, and `（仮）`to the end of the native title.
+
+It is highly recommended to write a temporary description containing the date of the announcement, a link to a reputable article or website, and the author.
+
 **Example:**
 
 ```text

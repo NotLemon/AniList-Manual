@@ -29,7 +29,7 @@
   * [Tools](before-you-begin/sourcing/tools/README.md)
     * [Japanese Dictionary Extensions](before-you-begin/sourcing/tools/rikaichan-and-rikaikun.md)
     * [Bookwalker Cover Grabber](before-you-begin/sourcing/tools/bookwalker-cover-grabber.md)
-* [romanization](before-you-begin/romanization.md)
+* [Romanization](before-you-begin/romanization.md)
 * [Title Formatting](before-you-begin/title-formatting.md)
 * [Image Dimensions, and Templates](before-you-begin/image-dimensions-and-template.md)
 

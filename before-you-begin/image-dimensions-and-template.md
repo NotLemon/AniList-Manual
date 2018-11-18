@@ -31,5 +31,3 @@ Uploading slightly smaller or larger images is acceptable, but up-scaling can lo
 
 ![](../.gitbook/assets/banner-entries.png)
 
-
-

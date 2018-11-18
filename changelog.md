@@ -8,7 +8,7 @@ description: >-
 
 ## 2.0.0 - 2018-11-17 - New System & Manual
 
-This is the initial release of the second version of the data management system and its accompanying manual. The new system is significantly easier to use than the first version. The scope of the manual has also expanded greatly from the original and is the point of reference for all users and moderators. 
+This is the initial release of the second version of the data management system and its accompanying manual. The new system is significantly easier to use than the first version. The scope of the manual has also expanded greatly from the original and is the point of reference for all users and moderators.
 
 ### New
 
@@ -29,7 +29,7 @@ This is the initial release of the second version of the data management system 
 * A [romanization](before-you-begin/romanization.md) guide has been included in the manual.
 * A [title formatting](before-you-begin/title-formatting.md) guide has been included in the manual.
 * A [tags](tags/tag-management.md) guide has been included in the manual.
-* The [Mod Tools](moderator/mod-tools.md) have been included in the manual.
+* The [Mod Tools](https://github.com/AniList/Submission-Manual/tree/955d29d99359b130d62e895d7ae8e22d7e2c6ace/moderator/mod-tools.md) have been included in the manual.
 * A list of [moderators](moderator/moderator-list.md) has been included in the manual.
 
 ### Fixed
@@ -54,6 +54,4 @@ This is the initial release of the second version of the data management system 
   * Effect should be minimal as they were still being included where correct.
 * Recommended minimum [image dimensions](before-you-begin/image-dimensions-and-template.md) for creating or cropping images have been changed.
 * The doujinshi format has now been replaced by a [licensed](submission-form/general/misc/licensed.md) toggle to specify whether the work is [doujinshi](before-you-begin/written-media-information/doujinshi.md).
-
-
 
