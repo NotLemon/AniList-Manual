@@ -1,7 +1,3 @@
----
-description: One-Shots from Japan.
----
-
 # One-Shots
 
 ## Database Criteria

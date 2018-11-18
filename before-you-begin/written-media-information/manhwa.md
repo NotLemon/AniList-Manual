@@ -1,7 +1,3 @@
----
-description: Comics from Korea.
----
-
 # Manhwa
 
 ## Database Criteria

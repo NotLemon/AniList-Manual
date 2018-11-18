@@ -1,7 +1,3 @@
----
-description: Animated works from Korea.
----
-
 # Aeni
 
 ## Database Criteria

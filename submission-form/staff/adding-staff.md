@@ -12,5 +12,3 @@ The popup after pressing the ‘_Add Staff_’ button will let you search for th
 Multiple staff can be selected at once. You are also able to search for a new name and continue selecting characters. Everything will be carried over when '**Done**' is pressed.
 {% endhint %}
 
-
-

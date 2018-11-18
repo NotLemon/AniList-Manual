@@ -1,7 +1,3 @@
----
-description: Comics from China.
----
-
 # Manhua
 
 ## Database Criteria

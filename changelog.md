@@ -1,7 +1,7 @@
 ---
 description: >-
-  This changelog is specific to the manual & database only, not other site
-  updates.
+  This change log is specific to the manual & database specification only, not
+  other site updates.
 ---
 
 # Changelog
@@ -13,10 +13,10 @@ This is the initial release of the second version of the data management system 
 ### New
 
 * Additional [sources](submission-form/general/typings/untitled-7.md) have been added to the website and all media types can now make use of the field. The new sources are:
-* **Doujinshi**
-* **Anime**
-* **Novel** 
-  * _Any works adapted from full novels caught in the Novel to Light Novel change \(see_ [_fixed_](changelog.md#fixed)_\) will have to be manually corrected to the new Novel source._
+  * **Doujinshi**
+  * **Anime**
+  * **Novel** 
+    * _Any works adapted from full novels caught in the Novel to Light Novel change \(see_ [_fixed_](changelog.md#fixed)_\) will have to be manually corrected to the new Novel source._
 * Two new opposite [relations](submission-form/relations.md), '**Contains**' and '**Compilation**', for linking [one-shots](before-you-begin/written-media-information/one-shots.md) into anthology collections and vice versa have been added to the website.
   * **Example**: [Shuuden ni wa Kaeshimasu](https://anilist.co/manga/85662/Shuuden-ni-wa-Kaeshimasu/)
 * Users can now track the status of their submissions.
