@@ -2,11 +2,11 @@
 
 ## Given Name
 
-Their given name\(s\) in correct [romanisation](../../before-you-begin/romanisation.md).
+Their given name\(s\) in correct [romanization](../../before-you-begin/romanization.md).
 
 ## Surname
 
-Their surname or alias in correct [romanisation](../../before-you-begin/romanisation.md).
+Their surname or alias in correct [romanization](../../before-you-begin/romanization.md).
 
 ## Native Name
 
@@ -45,7 +45,7 @@ Example: [Akari Mizunashi](https://anilist.co/character/378)
 
 This is the cover image for the character.
 
-A clean headshot or head and shoulders portrait should be used where possible. There is no preference to designs if a character has appeared in various media formats.
+A clean headshot or head and shoulders portrait should be used where possible. There is no preference for designs if a character has appeared in various media formats.
 
 Format should either .jpg \(.jpeg\) or .png
 

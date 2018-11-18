@@ -26,5 +26,5 @@ Example:
 >
 > It then has both [anime](https://anilist.co/anime/2966/Ookami-to-Koushinryou/) and [manga](https://anilist.co/manga/33299/Ookami-to-Koushinryou/) adaptations announced. Both of these would be given the '**Light Novel**' source.  
 >   
-> Any further spin-off's and similar relations would also be sourced to the light novel.
+> Any further spin-offs and similar relations would also be sourced to the light novel.
 

@@ -7,7 +7,7 @@ For example, the first _City Hunter_ anime has the URL [http://myanimelist.net/a
 ![The misc section for the &apos;Ao Buta&apos; anime](../../../.gitbook/assets/misc.png)
 
 {% hint style="danger" %}
-Please _**don’t**_ add a [MyAnimeList](https://myanimelist.net/) ID if the entry is _**unapproved**_. You can normally spot unapproved entries as they will be on zero user lists and zero user favourites.
+Please _**don’t**_ add a [MyAnimeList](https://myanimelist.net/) ID if the entry is _**unapproved**_. You can normally spot unapproved entries as they will be on zero user lists and zero user favorites.
 
 Each submission to MyAnimeList generates its own ID, so it’s possible that the ID for the entry submitted to [AniList](https://anilist.co) will _**not**_ be the ID of the entry that MyAnimeList later approves.
 

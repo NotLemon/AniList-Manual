@@ -10,7 +10,7 @@ The use of ‘original’ below is due to the fact that series can have new edit
 
 ## Chapters
 
-The total number of chapters in the _**original**_ serialisation of the work. This does include things such as ‘side’ chapters \(Example: Chapter 5.5\), bonus chapters and some prologues and epilogues.
+The total number of chapters in the _**original**_ serialization of the work. This does include things such as ‘side’ chapters \(Example: Chapter 5.5\), bonus chapters and some prologues and epilogues.
 
 This does not exclude special pages for things such as advertising volume releases or author comments.
 

@@ -4,11 +4,11 @@
 
 ## Given Name
 
-Their given name\(s\) in correct [romanisation](../../before-you-begin/romanisation.md).
+Their given name\(s\) in correct [romanization](../../before-you-begin/romanization.md).
 
 ## Surname
 
-Their surname or alias in correct [romanisation](../../before-you-begin/romanisation.md).
+Their surname or alias in correct [romanization](../../before-you-begin/romanization.md).
 
 ## Native Name
 

@@ -26,7 +26,7 @@ Example 2:
 
 Example 3:
 
-> The show [Kidou Senshi Gundam UC](https://anilist.co/anime/6336/Kidou-Senshi-Gundam-UC/) was aired in a set schedul,e with each episode following a singular continuity, so it is combined.
+> The show [Kidou Senshi Gundam UC](https://anilist.co/anime/6336/Kidou-Senshi-Gundam-UC/) was aired in a set schedule, with each episode following a singular continuity, so it is combined.
 
 ## ONA
 
@@ -34,5 +34,5 @@ An ONA is a type of series that airs online for its original broadcast release.
 
 ## Special
 
-A work will be labelled special if the production company labels it as such. A special is also a work that is uniquely different than it’s parent series, whether that be a picture drama, a short, a pilot, etc.
+A work will be labeled special if the production company labels it as such. A special is also a work that is uniquely different than it’s parent series, whether that be a picture drama, a short, a pilot, etc.
 

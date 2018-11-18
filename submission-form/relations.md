@@ -42,7 +42,7 @@ Example:
 > To link the entries, you must be in the light novel entry and set [Kono Subarashii Sekai ni Bakuen wo!](https://anilist.co/manga/100147/Kono-Subarashii-Sekai-ni-Bakuen-wo/) as a '**spin-off'**. The '**parent'** relation will then be set in the opposite direction back to the light novel.
 
 {% hint style="warning" %}
-[One-shots](../before-you-begin/written-media-information/one-shots.md) that are adapted into a proper serialisation are linked through the '**alternative'** relation. The [source](general/typings/untitled-7.md) would remain 'original'
+[One-shots](../before-you-begin/written-media-information/one-shots.md) that are adapted into a proper serialization are linked through the '**alternative'** relation. The [source](general/typings/source.md) would remain 'original'
 {% endhint %}
 
 ## Branching
@@ -51,9 +51,9 @@ Relations should always branch off the first publication of a series if the seri
 
 Example:
 
-> The light novel [Mushoku Tensei: Isekai Ittara Honki Dasu](https://anilist.co/manga/85470/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu/) was serialised in January 2014, and had a manga release, [Mushoku Tensei: Isekai Ittara Honki Dasu](https://anilist.co/manga/85564/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu/), in May 2014, which is linked through the '**adaptation**' relation.  
+> The light novel [Mushoku Tensei: Isekai Ittara Honki Dasu](https://anilist.co/manga/85470/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu/) was serialized in January 2014, and had a manga release, [Mushoku Tensei: Isekai Ittara Honki Dasu](https://anilist.co/manga/85564/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu/), in May 2014, which is linked through the '**adaptation**' relation.  
 >   
-> Two spin-offs, [Mushoku Tensei - Roxy datte Honki desu](https://anilist.co/manga/104724/Mushoku-Tensei--Roxy-datte-Honki-desu/) and [Mushoku Tensei: 4-koma ni Natte mo Honki Dasu](https://anilist.co/manga/104856/Mushoku-Tensei-4koma-ni-Natte-mo-Honki-Dasu/), were then serialised in December 2017 and October 2018 respectively. Both spin-offs only branch off the light novel, and _**not**_ the manga, so are only be linked to the light novel.
+> Two spin-offs, [Mushoku Tensei - Roxy datte Honki desu](https://anilist.co/manga/104724/Mushoku-Tensei--Roxy-datte-Honki-desu/) and [Mushoku Tensei: 4-koma ni Natte mo Honki Dasu](https://anilist.co/manga/104856/Mushoku-Tensei-4koma-ni-Natte-mo-Honki-Dasu/), were then serialized in December 2017 and October 2018 respectively. Both spin-offs only branch off the light novel, and _**not**_ the manga, so are only be linked to the light novel.
 
 ## Relation Table
 

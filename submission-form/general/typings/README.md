@@ -2,7 +2,7 @@
 
 ## Contents:
 
-* [Format](untitled-6.md)
-* [Source](untitled-7.md)
-* [Country Of Origin](untitled-8.md)
+* [Format](format.md)
+* [Source](source.md)
+* [Country Of Origin](country-of-origin.md)
 

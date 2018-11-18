@@ -1,7 +1,7 @@
 # Moderator List
 
 {% hint style="info" %}
-Feel free to contact a moderator for help and advice through the [website ](http://anilist.co/)or on [Discord](http://discord.me/anilist).
+Feel free to contact a moderator for help and advice through the [website](http://anilist.co/) or on [Discord](http://discord.me/anilist).
 
 However, please don't give them a title and expect them to do all the work for you.
 {% endhint %}
@@ -44,7 +44,7 @@ However, please don't give them a title and expect them to do all the work for y
 | [Deerman](http://anilist.co/user/86837) | Manga |  |
 | [Sumia](http://anilist.co/user/4359) | Manga |  |
 | [adustyspectacle](http://anilist.co/user/26062) | Manga \(BL\) |  |
-| [Chi](https://anilist.co/user/15530) | Manga |  |
+| [chi](https://anilist.co/user/15530) | Manga |  |
 | [alice](http://anilist.co/user/20955) | Manga |  |
 | [Silver](https://anilist.co/user/33516) | Manga |  |
 | [nazo](https://anilist.co/user/109985) | Manga |  |
@@ -58,7 +58,7 @@ However, please don't give them a title and expect them to do all the work for y
 | Name | Role | Role | Role |
 | :--- | :--- | :--- | :--- |
 | [Josh](http://anilist.co/user/1) | Lead Developer |  | Community |
-| [Matchai](http://anilist.co/user/2) | Lead Social Media | Developer | Community |
+| [matchai](http://anilist.co/user/2) | Lead Social Media | Developer | Community |
 | [MexicanAnime](http://anilist.co/user/1790) | Social Media |  | Community |
 | [Lemon](http://anilist.co/user/639) | Social Media |  | Community |
 | [Shammy](http://anilist.co/user/1525) |  |  | Community |
