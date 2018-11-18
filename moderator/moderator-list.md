@@ -10,7 +10,6 @@ However, please don't give them a title and expect them to do all the work for y
 
 | Name | Role | Role |
 | :--- | :--- | :--- |
-| [Shammy](http://anilist.co/user/1525) | Lead Anime |  |
 | [Taluun](http://anilist.co/user/21510) | Lead Anime |  |
 | [Retui](http://anilist.co/user/1544) | Lead Anime |  |
 | [Kazakuri](http://anilist.co/user/4659) | Anime \(Hentai\) |  |
@@ -62,7 +61,7 @@ However, please don't give them a title and expect them to do all the work for y
 | [Matchai](http://anilist.co/user/2) | Lead Social Media | Developer | Community |
 | [MexicanAnime](http://anilist.co/user/1790) | Social Media |  | Community |
 | [Lemon](http://anilist.co/user/639) | Social Media |  | Community |
-| [Shammy](http://anilist.co/user/1525) | Social Media |  | Community |
+| [Shammy](http://anilist.co/user/1525) |  |  | Community |
 | [Kazakuri](http://anilist.co/user/4659) | Developer |  | Community |
 | [Retui](http://anilist.co/user/1544) | Social Media |  | Community |
 | [Taluun](http://anilist.co/user/21510) |  |  | Community |
