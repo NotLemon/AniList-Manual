@@ -34,7 +34,7 @@ Any accepted works from [Comico](https://www.comico.jp) or similar webtoon porta
 
 ## Doujinshi into Licensed Manga
 
-If series originally self-published online through platforms like [Twitter](http://twitter.com) or [Pixiv](http://pixiv.net) \(considered [doujinshi](doujinshi.md)\) are later picked up by a professional publisher and released without significant change, any existing entry in AniList under the doujinshi format would be [updated](../../submission-form/general/misc/licensed.md) to manga by checking the [Licensed ](../../submission-form/general/misc/licensed.md)option. \(retaining the original self-published start date\).
+If series originally self-published online through platforms like [Twitter](http://twitter.com) or [Pixiv](http://pixiv.net) \(considered [doujinshi](doujinshi.md)\) are later picked up by a professional publisher and released without significant change, any existing entry in AniList under the doujinshi format would be [updated](../../submission-form/general/misc/self-published.md) to manga by checking the [Self Published ](../../submission-form/general/misc/self-published.md)option. \(retaining the original self-published start date\).
 
 {% hint style="warning" %}
 If the serialization is an _**entirely**_ new work, and not a re-publication of the original chapters, a new entry should be made using the start date as the date of serialization. The original work could still be eligible to enter the database as doujinshi.

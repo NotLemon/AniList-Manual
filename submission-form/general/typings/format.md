@@ -23,6 +23,6 @@
 | [One-Shot](../../../before-you-begin/written-media-information/one-shots.md) | Manga with just one chapter. This includes pilots for manga that were published fully afterward. |
 
 {% hint style="warning" %}
-[Doujinshi](../../../before-you-begin/written-media-information/doujinshi.md), [Manhua](../../../before-you-begin/written-media-information/manhua.md), and [Manwha](../../../before-you-begin/written-media-information/manhwa.md) are not separate formats on AniList. Instead, you have to the toggle the [licensed](../misc/licensed.md) option for doujinshi or change the [Country Of Origin](country-of-origin.md) for manhua and manwha.
+[Doujinshi](../../../before-you-begin/written-media-information/doujinshi.md), [Manhua](../../../before-you-begin/written-media-information/manhua.md), and [Manwha](../../../before-you-begin/written-media-information/manhwa.md) are not separate formats on AniList. Instead, you have to the toggle the [Self Published](../misc/self-published.md) option for doujinshi or change the [Country Of Origin](country-of-origin.md) for manhua and manwha.
 {% endhint %}
 

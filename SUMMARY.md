@@ -56,7 +56,7 @@
     * [MyAnimeList ID](submission-form/general/misc/myanimelist-id.md)
     * [YouTube Preview ID](submission-form/general/misc/youtube-preview-id.md)
     * [Twitter Hashtag](submission-form/general/misc/twitter-hashtag.md)
-    * [Licensed](submission-form/general/misc/licensed.md)
+    * [Self Published](submission-form/general/misc/self-published.md)
     * [Adult](submission-form/general/misc/adult.md)
     * [Locked](submission-form/general/misc/locked.md)
     * [Forum Thread](submission-form/general/misc/forum-thread.md)

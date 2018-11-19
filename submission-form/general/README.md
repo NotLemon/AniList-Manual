@@ -22,7 +22,7 @@
   * [MyAnimeList ID](misc/myanimelist-id.md)
   * [Youtube Preview ID](misc/youtube-preview-id.md)
   * [Twitter Hashtag](misc/twitter-hashtag.md)
-  * [Licensed](misc/licensed.md)
+  * [Licensed](misc/self-published.md)
   * [Adult](misc/adult.md)
   * [Locked](misc/locked.md)
   * [Forum Thread](misc/forum-thread.md)
