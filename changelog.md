@@ -11,6 +11,7 @@ description: >-
 ### Changed
 
 * Licensed toggle re-labeled to [Self Published](submission-form/general/misc/self-published.md) for clarity.
+* Submission cards on user profiles now have direct links to the respective entry.
 
 ## 2.0.0 - 2018-11-17 - New System & Manual
 
@@ -25,7 +26,7 @@ This is the initial release of the second version of the data management system 
     * _Any works adapted from full novels caught in the Novel to Light Novel change \(see_ [_fixed_](changelog.md#fixed)_\) will have to be manually corrected to the new Novel source._
 * Two new opposite [relations](submission-form/relations.md), '**Contains**' and '**Compilation**', for linking [one-shots](before-you-begin/written-media-information/one-shots.md) into anthology collections and vice versa have been added to the website.
   * **Example**: [Shuuden ni wa Kaeshimasu](https://anilist.co/manga/85662/Shuuden-ni-wa-Kaeshimasu/)
-* Users can now track the status of their submissions.
+* Users can now track the status of their submissions in the new submissions tab of their profile.
 * A [locked](submission-form/general/misc/locked.md) toggle to restrict ability to add and favourite entries has been added to the website.
 * Specifications for upcoming [untitled or provisionally titled](before-you-begin/title-formatting.md#untitled-or-provisionally-titled-media) media added.
 * [Characters](submission-form/characters/adding-characters.md) can now be imported from existing entries \(Currently Data Mod only\).
