@@ -66,5 +66,5 @@ Example Anthology:[ ](https://anilist.co/manga/45515) [Gunjou Gakusha](https://a
 
 > _Bakuman_ follows the story of high school student Moritaka Mashiro**...**
 
-Example:[ ](https://anilist.co/manga/39711) [Bakuman.](https://anilist.co/manga/39711)
+Example:[ ](https://anilist.co/manga/39711) [Bakuman](https://anilist.co/manga/39711)
 
