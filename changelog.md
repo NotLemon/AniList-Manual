@@ -8,10 +8,13 @@ description: >-
 
 ## 2.0.1 - 2018-11-18
 
+### New
+
+* Submission cards on user profiles now have direct links to the respective entry.
+
 ### Changed
 
 * Licensed toggle re-labeled to [Self Published](submission-form/general/misc/self-published.md) for clarity.
-* Submission cards on user profiles now have direct links to the respective entry.
 
 ## 2.0.0 - 2018-11-17 - New System & Manual
 
