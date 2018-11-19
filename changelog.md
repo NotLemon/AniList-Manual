@@ -6,7 +6,7 @@ description: >-
 
 # Changelog
 
-## 2.0.1 - 2018-11-18 - New System & Manual
+## 2.0.1 - 2018-11-18
 
 ### Changed
 
