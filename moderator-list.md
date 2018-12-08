@@ -1,7 +1,7 @@
 # Moderator List
 
 {% hint style="info" %}
-Feel free to contact a moderator for help and advice through the [website](http://anilist.co/) or on [Discord](http://discord.me/anilist).
+Feel free to contact a moderator for help and advice through the [website](http://anilist.co/) or on [Discord](http://discord.me/anilist) \#submission-support channel.
 
 However, please don't give them a title and expect them to do all the work for you.
 {% endhint %}

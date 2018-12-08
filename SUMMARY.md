@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Moderator List](moderator-list.md)
 * [Changelog](changelog.md)
 
 ## Before You Begin
@@ -86,5 +87,4 @@
 ## Moderator
 
 * [Moderator Tools](moderator/moderator-tools.md)
-* [Moderator List](moderator/moderator-list.md)
 

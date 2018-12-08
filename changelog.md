@@ -46,7 +46,7 @@ This is the initial release of the second version of the data management system 
 * A [title formatting](before-you-begin/title-formatting.md) guide has been included in the manual.
 * A [tags](tags/tag-management.md) guide has been included in the manual.
 * The [Mod Tools](https://github.com/AniList/Submission-Manual/tree/955d29d99359b130d62e895d7ae8e22d7e2c6ace/moderator/mod-tools.md) have been included in the manual.
-* A list of [moderators](moderator/moderator-list.md) has been included in the manual.
+* A list of [moderators](moderator-list.md) has been included in the manual.
 
 ### Fixed
 

@@ -14,7 +14,7 @@ Three applicable digital readers for [Ginga no Shinanai Kodomotachi he](https://
 
 If the URL provided is not one of the titled links listed in the next section, it will be titled with a generic ‘_official site_’.
 
-Feel free to contact a [moderator](../moderator/moderator-list.md) if you want to have another link title considered. Sites such as print or web magazines are ineligible.
+Feel free to contact a [moderator](../moderator-list.md) if you want to have another link title considered. Sites such as print or web magazines are ineligible.
 
 {% hint style="danger" %}
 Illegal streaming and scanlation websites are _**not**_ allowed.

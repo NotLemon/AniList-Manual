@@ -61,7 +61,7 @@ Remember to follow news for the series so that the title can be updated as soon 
 ## Special Characters
 
 {% hint style="info" %}
-Examples of how to deal with non-alphanumeric characters in titles can be seen in the table below. If uncertain, contact a [moderator](../moderator/moderator-list.md).
+Examples of how to deal with non-alphanumeric characters in titles can be seen in the table below. If uncertain, contact a [moderator](../moderator-list.md).
 {% endhint %}
 
 * Titles which feature subtitles separated full-width tildes \(～\) or other similar separators should be separated with a colon.  
