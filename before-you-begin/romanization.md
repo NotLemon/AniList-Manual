@@ -5,6 +5,8 @@ The romanization of names and titles is done in a variation of [Traditional Hepb
 * Macrons are _**not**_ used.  
 * Loanwords are written properly in their respective languages  \(Example: _Maid_ instead of _Meido_\).  
 * Alternate spellings advocated by the creator\(s\) of the work are applied, if required.  
+* Things such as 'っち', 'っちゃ', and 'っちょ' are romanized as 'cchi', 'ccha', and 'ccho' respectively. This is opposed to the traditional 'tchi', 'tcha', and 'tcho'.  
+* 'ん' is always written as 'n'.  
 * Words adopted into English are written in that standard  \(Example: _Tokyo_ and _Osaka_ instead of _Toukyou_ and _Oosaka_ respectively\).  
 * Full-width punctuation should _**always**_ be converted to half-width or equivalent. \(。to . , ！to ! , ？to ?\)
 
@@ -13,7 +15,7 @@ Examples:
 | Native Title | Romaji Title |
 | :--- | :--- |
 | シティーハンター | City Hunter |
-| 銀河の死なない子供たちへ | Ginga no Shinanai Kodomotachi he |
+| 銀河の死なない子供たちへ | Ginga no Shinanai Kodomotachi e |
 | ニア アンダーセブン | NieA Under 7 |
 | たまゆら ～もあぐれっしぶ～ | Tamayura: More Aggressive |
 | 俺の妹がこんなに可愛いわけがない | Ore no Imouto ga Konnani Kawaii Wake ga Nai |
