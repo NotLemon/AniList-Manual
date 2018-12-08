@@ -32,5 +32,3 @@ Anthologies should be have _**both**_ start and end dates set to the day that th
 Compilations of one-shots should have the **Manga** [format](../../submission-form/general/typings/format.md).
 {% endhint %}
 
-
-

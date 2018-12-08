@@ -10,5 +10,5 @@ However, other series with strong sexual content such as BL \(Boys’ Love\) and
 If you’re unsure whether or not a series should or should not be marked as adult, feel free to ask in the [Discord](http://discord.me/anilist) and/or ping one of the hentai moderators.
 {% endhint %}
 
-![The misc section for the &apos;Ao Buta&apos; anime](../../../.gitbook/assets/misc_panel%20%281%29.png)
+![The misc section for the &apos;Ao Buta&apos; anime](../../../.gitbook/assets/misc_panel-1.png)
 

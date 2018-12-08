@@ -11,5 +11,5 @@ The ID is located at the end of the [YouTube](https://www.youtube.com/) video UR
 For example, the ID for [https://www.YouTube.com/watch?v=fq3abPnEEGE](https://www.youtube.com/watch?v=fq3abPnEEGE) is `fq3abPnEEGE`  
 To add a [Dailymotion](https://www.dailymotion.com/gb) video, prefix the [Dailymotion](https://www.dailymotion.com/gb) video ID with `dm--`
 
-![The misc section for the &apos;Ao Buta&apos; anime](../../../.gitbook/assets/misc_panel%20%281%29.png)
+![The misc section for the &apos;Ao Buta&apos; anime](../../../.gitbook/assets/misc_panel-1.png)
 

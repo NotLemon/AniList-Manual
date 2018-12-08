@@ -16,7 +16,5 @@ For works such as one-shots, standalone movies, and anthologies, both the start 
 
 The date that the work is confirmed to have finished airing or finished serialization.
 
-
-
 ![The dates for the &apos;City Hunter&apos; anime](../../../.gitbook/assets/release_data.png)
 

@@ -6,6 +6,12 @@ description: >-
 
 # Changelog
 
+## 2.0.2 - 2018-12-08
+
+### Changed
+
+* Clarified [romanization ](before-you-begin/romanization.md)guidelines and corrected an example within.
+
 ## 2.0.1 - 2018-11-18
 
 ### New
