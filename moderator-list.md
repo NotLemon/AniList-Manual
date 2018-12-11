@@ -14,11 +14,8 @@ However, please don't give them a title and expect them to do all the work for y
 | [Retui](http://anilist.co/user/1544) | Lead Anime |  |
 | [Kazakuri](http://anilist.co/user/4659) | Anime \(Hentai\) |  |
 | [Tiamo](http://anilist.co/user/44283) | Anime |  |
-| [Ventulus](http://anilist.co/user/3801) | Anime |  |
 | [Watashi](http://anilist.co/user/923) | Anime |  |
-| [Greenmeido](http://anilist.co/user/2961) | Anime |  |
 | [Byrdn](http://anilist.co/user/2904) | Anime |  |
-| [BluuS](http://anilist.co/user/10900) | Anime |  |
 | [Zex](https://anilist.co/user/87028) | Anime |  |
 | [adustyspectacle](http://anilist.co/user/26062) | Anime \(BL\) |  |
 | [Edo](https://anilist.co/user/40572) | Anime |  |
@@ -41,7 +38,6 @@ However, please don't give them a title and expect them to do all the work for y
 | [InVale](http://anilist.co/user/57370) | Manga |  |
 | [Sumia](http://anilist.co/user/4359) | Manga |  |
 | [adustyspectacle](http://anilist.co/user/26062) | Manga \(BL\) |  |
-| [chi](https://anilist.co/user/15530) | Manga |  |
 | [alice](http://anilist.co/user/20955) | Manga |  |
 | [Silver](https://anilist.co/user/33516) | Manga |  |
 | [nazo](https://anilist.co/user/109985) | Manga |  |
@@ -58,9 +54,10 @@ However, please don't give them a title and expect them to do all the work for y
 | [matchai](http://anilist.co/user/2) | Lead Social Media | Developer | Community |
 | [MexicanAnime](http://anilist.co/user/1790) | Social Media |  | Community |
 | [Lemon](http://anilist.co/user/639) | Social Media |  | Community |
-| [Shammy](http://anilist.co/user/1525) |  |  | Community |
 | [Kazakuri](http://anilist.co/user/4659) | Developer |  | Community |
 | [Retui](http://anilist.co/user/1544) | Social Media |  | Community |
 | [Taluun](http://anilist.co/user/21510) |  |  | Community |
 | [Zex](https://anilist.co/user/87028) |  |  | Community |
+
+
 
