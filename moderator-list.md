@@ -17,11 +17,9 @@ However, please don't give them a title and expect them to do all the work for y
 | [Ventulus](http://anilist.co/user/3801) | Anime |  |
 | [Watashi](http://anilist.co/user/923) | Anime |  |
 | [Greenmeido](http://anilist.co/user/2961) | Anime |  |
-| [TehVict](http://anilist.co/user/1219) | Anime |  |
 | [Byrdn](http://anilist.co/user/2904) | Anime |  |
 | [BluuS](http://anilist.co/user/10900) | Anime |  |
 | [Zex](https://anilist.co/user/87028) | Anime |  |
-| [Spectro889](http://anilist.co/user/34724) | Anime |  |
 | [adustyspectacle](http://anilist.co/user/26062) | Anime \(BL\) |  |
 | [Edo](https://anilist.co/user/40572) | Anime |  |
 | [W8TERM3LON](https://anilist.co/user/57315) | Anime |  |
@@ -41,7 +39,6 @@ However, please don't give them a title and expect them to do all the work for y
 | [Thunderplant](http://anilist.co/user/1828) | Manga |  |
 | [Orangealaid](http://anilist.co/user/2272) | Manga |  |
 | [InVale](http://anilist.co/user/57370) | Manga |  |
-| [Deerman](http://anilist.co/user/86837) | Manga |  |
 | [Sumia](http://anilist.co/user/4359) | Manga |  |
 | [adustyspectacle](http://anilist.co/user/26062) | Manga \(BL\) |  |
 | [chi](https://anilist.co/user/15530) | Manga |  |
