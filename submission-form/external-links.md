@@ -22,38 +22,46 @@ Illegal streaming and scanlation websites are _**not**_ allowed.
 
 ## List of Titled Links
 
-* Animax
-* Animenetwork
-* Animelab
-* Amazon
-* Hulu
-* Funimation
-* Netflix
-* Madman
-* YouTube
-* Viewster
-* Twitter
-* Viz
-* Hidive
-* Mangabox
-* Fakku
-* Webtoons
-* Manga.club
-* Facebook
-* Lezhin
-* Comico
-* ComicWalker
-* Nico Nico Seiga
-* PixivComic
-* Kakaopage
-* Lezhin
-* Naver
-* Daum Webtoon
-* Douban
-* Kuaikanmanhua
-* Manmanapp
-* QQ
-* Weibo Manhua
+```text
+Amazon
+Animax
+Animelab
+Animenetwork
+ComicWalker
+Comico
+Crunchyroll
+Dajiaochong Manhua
+Daum Webtoon
+Facebook
+Fakku
+Funimation
+Hidive
+Hulu
+Justoon
+KakaoPage
+KuaiKan Manhua
+Lezhin
+Madman
+Manga.Club
+Mangabox
+Manman Manhua
+Naver
+Netflix
+Nico Nico Seiga
+Piccoma
+Pixiv Comic
+QQ
+Toomics
+Twitter
+Viewster
+Vimeo
+Viz
+Wakanim
+Web Comics
+Webtoons
+Weibo Manhua
+Youtube
+```
 
 ![External links page for the &apos;Ginga no Shinanai Kodomotachi he&apos; manga](../.gitbook/assets/external_links_manga.png)
 
