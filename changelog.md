@@ -6,13 +6,13 @@ description: >-
 
 # Changelog
 
-## 2.0.2 - 2018-12-08
+## 2018-12-08
 
 ### Changed
 
 * Clarified [romanization ](before-you-begin/romanization.md)guidelines and corrected an example within.
 
-## 2.0.1 - 2018-11-18
+## 2018-11-18
 
 ### New
 
@@ -22,7 +22,7 @@ description: >-
 
 * Licensed toggle re-labeled to [Self Published](submission-form/general/misc/self-published.md) for clarity.
 
-## 2.0.0 - 2018-11-17 - New System & Manual
+## 2018-11-17 - New System & Manual
 
 This is the initial release of the second version of the data management system and its accompanying manual. The new system is significantly easier to use than the first version. The scope of the manual has also expanded greatly from the original and is the point of reference for all users and moderators.
 
