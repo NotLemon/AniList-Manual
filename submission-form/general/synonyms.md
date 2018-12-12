@@ -15,6 +15,6 @@ Example 2:
 > The manga [Shoujo no Skirt wa Yoku Yureru](https://anilist.co/manga/104035/Shoujo-no-Skirt-wa-Yoku-Yureru/) is also advertised alongside the subtitle 'Girls Skirts Fluttering in the Wind'. As the work is not licensed, this remains in Synonyms and _**not**_ the English title field.
 
 {% hint style="warning" %}
-Please be aware that titles created by fansubbers or scanlators are not allowed.
+Please be aware that titles created by fansubbers or scanlators are normally not allowed unless widespread in common use.
 {% endhint %}
 
