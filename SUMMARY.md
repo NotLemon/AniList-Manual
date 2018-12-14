@@ -24,7 +24,7 @@
   * [Doujinshi](before-you-begin/written-media-information/doujinshi.md)
   * [Light Novels](before-you-begin/written-media-information/light-novels.md)
   * [One-Shots](before-you-begin/written-media-information/one-shots.md)
-  * [Web Platform List \(Not Exhaustive\)](before-you-begin/written-media-information/web-platform-list-not-exhaustive.md)
+  * [Web Platform List Examples](before-you-begin/written-media-information/web-platform-list-not-exhaustive.md)
 * [Sourcing](before-you-begin/sourcing/README.md)
   * [Websites](before-you-begin/sourcing/websites.md)
   * [Tools](before-you-begin/sourcing/tools/README.md)
