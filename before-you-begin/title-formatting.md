@@ -64,7 +64,7 @@ Remember to follow news for the series so that the title can be updated as soon 
 Examples of how to deal with non-alphanumeric characters in titles can be seen in the table below. If uncertain, contact a [moderator](../moderator-list.md).
 {% endhint %}
 
-* Titles which feature subtitles separated full-width tildes \(～\) or other similar separators should be separated with a colon.  
+* Titles which feature subtitles separated full-width tildes \(～\) or other similar separators should be separated with a colon or hypen. The only preference is what formatting is most commonly used elsewhere.
 * Japanese quotes \(「」\) should be converted to English double-quotes \(" "\).  
 * Symbols like stars \(☆\) and musical notes \(♪\) should remain.  
 * Titles using full-width tildes to elongate words should be [romanized](romanization.md) without. \(み〜つけた &gt; Mitsuketa\).  
@@ -86,7 +86,7 @@ Examples of how to deal with non-alphanumeric characters in titles can be seen i
 | 三白眼ちゃんは伝えたい。 | [Sanpakugan-chan wa Tsutaetai.](https://anilist.co/manga/104776/Sanpakuganchan-wa-Tsutaetai/) |
 | 魔法少女2世 | [Mahou Shoujo 2-sei](https://anilist.co/manga/104770/Mahou-Shoujo-2sei/) |
 | 滅び時だと彼女は告げた \#異能犯罪捜査〈零局〉 | [Horobi Doki dato Kanojo wa Tsugeta \#InouHanzaiSousa &lt;Rei Kyoku&gt;](https://anilist.co/manga/104760/Horobi-Doki-dato-Kanojo-wa-Tsugeta-InouHanzaiSousa-Rei-Kyoku/) |
-| 政宗くんのリベンジafter school | [Masamune-kun no Revenge: After School](https://anilist.co/manga/104896) |
+| 政宗くんのリベンジafter school | [Masamune-kun no Revenge After School](https://anilist.co/manga/104896) |
 
 
 
