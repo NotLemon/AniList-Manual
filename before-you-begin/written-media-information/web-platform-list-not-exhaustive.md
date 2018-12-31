@@ -47,6 +47,9 @@ Japanese
 [http://toko.takekuma.jp](http://toko.takekuma.jp/) \(However [Dennou Mavo](http://mavo.takekuma.jp/) is allowed\)  
 [http://www.pixiv.net](http://pixiv.net/) \(However [PixivComics](https://comic.pixiv.net/) is allowed\)
 
+Chinese  
+[http://u17.com](http://u17.com)
+
 Multi-language  
 [https://www.tapas.io](https://tapas.io/)  
 [https://www.twitter.com](https://www.twitter.com)  
